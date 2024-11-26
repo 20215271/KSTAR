@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "KSTAR",
+			"Path": "..\\Source\\KSTAR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KSTAREditor",
+			"Path": "..\\Source\\KSTAREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

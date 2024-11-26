@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal\\kstar\\source\\kstar\\kstar.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal\\kstar\\intermediate\\build\\win64\\x64\\kstareditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal\\kstar\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\kstar\\definitions.kstar.h",
+            "c:\\unreal\\kstar\\source\\kstar\\kstar.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

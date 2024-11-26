@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal\\kstar\\source\\kstar\\private\\pmclinestrip.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal\\kstar\\intermediate\\build\\win64\\x64\\kstareditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal\\kstar\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\kstar\\definitions.kstar.h",
+            "c:\\unreal\\kstar\\source\\kstar\\public\\pmclinestrip.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\proceduralmeshcomponent\\uht\\proceduralmeshcomponent.generated.h",
+            "c:\\unreal\\kstar\\intermediate\\build\\win64\\unrealeditor\\inc\\kstar\\uht\\pmclinestrip.generated.h",
+            "c:\\unreal\\kstar\\source\\kstar\\public\\positionloader.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

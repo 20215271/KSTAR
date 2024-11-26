@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal\\KSTAR\\Source\\KSTAR\\KSTAR.Build.cs",
+		"C:\\Unreal\\KSTAR\\Plugins\\TBRaymarcherPlugin\\Source\\FractalMarcher\\FractalMarcher.build.cs",
+		"C:\\Unreal\\KSTAR\\Plugins\\TBRaymarcherPlugin\\Source\\RayUtils\\RayUtils.build.cs",
+		"C:\\Unreal\\KSTAR\\Plugins\\TBRaymarcherPlugin\\Source\\Raymarcher\\Raymarcher.build.cs",
+		"C:\\Unreal\\KSTAR\\Plugins\\TBRaymarcherPlugin\\Source\\Tests\\Tests.Build.cs",
+		"C:\\Unreal\\KSTAR\\Plugins\\TBRaymarcherPlugin\\Source\\VolumeTextureToolkitEditor\\VolumeTextureToolkitEditor.Build.cs",
+		"C:\\Unreal\\KSTAR\\Plugins\\TBRaymarcherPlugin\\Source\\VolumeTextureToolkit\\VolumeTextureToolkit.Build.cs",
+		"C:\\Unreal\\KSTAR\\Source\\KSTAR.Target.cs",
+		"C:\\Unreal\\KSTAR\\Source\\KSTAREditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

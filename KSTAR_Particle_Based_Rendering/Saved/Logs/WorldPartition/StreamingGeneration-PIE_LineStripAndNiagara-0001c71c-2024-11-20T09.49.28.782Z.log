@@ -1,0 +1,1132 @@
+[+] Containers:
+ |- [+] Container: /Game/Map/LineStripAndNiagara
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:03C78FDB4B1F8FF02A4955B08FF48929 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1905480002 Label:PMCLineStrip74 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:05BF47A442C4C99E76B45085CF663849 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908382019 Label:PMCLineStrip91 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:09B06F214663C2B7BE23A3899B342748 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_0000000059588f23 Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_-1_0_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-14076.138 Y=-159.186 Z=-1051.000), Max=(X=528.932 Y=12721.139 Z=3522.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- Guid:0B67396445A38FACD13E0E934EADBE34 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285740869 Label:PMCLineStrip33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:0E4F85E5457DE5D6AC77A5A4BDBCE81A BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1905668003 Label:PMCLineStrip75 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:0EECFB594ED1873ED29EEFA176674546 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1522889683 Label:PMCLineStrip5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:11AD2C48407DDC690E3BDDB4EB68E339 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1901274979 Label:PMCLineStrip51 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:13A7B87C4F7F0BA6D447DFBC798B75FF BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1858743976 Label:PMCLineStrip48 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:14D9671F485247625E2BADAE2C8F3A10 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1528671696 Label:PMCLineStrip18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:14FA081F4EC5F9436421AF8FD8A59181 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1522128681 Label:PMCLineStrip3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1E85058749729CC7AA7F7BBA25BE3564 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_000000000c23e31c Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_-1_-1_-1_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12651.138 Y=-14091.138 Z=-3919.226), Max=(X=3965.390 Y=3942.507 Z=32.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- Guid:1EB62E4544A5AFCB347409AA5356B4EE BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286791875 Label:PMCLineStrip39 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:21055B6F4A8E49AE281EA0884004839C BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284535862 Label:PMCLineStrip26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:24A52C494F899A1F42BE32B54AB789D4 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1855515975 Label:PMCLineStrip47 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:27A90FA74516C7DDAC037DA3A32150BB BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902369983 Label:PMCLineStrip55 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:2B7268EF4F25A58ADB754E97D8621E5A BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906828010 Label:PMCLineStrip82 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:2D7D0F7D47CE69015BB7A38CBB116C16 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904958999 Label:PMCLineStrip71 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:2E33CF0D43B15D6EE28C8B8473526F57 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903314989 Label:PMCLineStrip61 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:2EB8769D43CB9C963F0234AF548DFC35 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1909604026 Label:PMCLineStrip98 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:2F513B8547218213721A6593CB705A7D BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904777998 Label:PMCLineStrip70 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:3487517944A1BCFA5229BFABFB63D495 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906166006 Label:PMCLineStrip78 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:34F657B3497165148BD693A379029DA9 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906483008 Label:PMCLineStrip80 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:353374B24475509E6EA84E93B903078B BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1907515014 Label:PMCLineStrip86 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:38346C254580E297903F38931EA11A21 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903158988 Label:PMCLineStrip60 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:3E7DCB354B294272965458827C5DC7CD BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_000000001305efca Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_-1_-1_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12641.138 Y=-14101.138 Z=-1355.870), Max=(X=2240.900 Y=2239.380 Z=3522.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- Guid:3F765EB140CEC13AB0AD0C8AF901CD7C BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284876864 Label:PMCLineStrip28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:40A3A2D44B0ECCE1DA997CA08C2BF3C2 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285915870 Label:PMCLineStrip34 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:445D625C403A34D6BEACE2B0DF573021 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1910181028 Label:PMCLineStrip100 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:49B327FF4701EB83386898A5CD067179 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903948993 Label:PMCLineStrip65 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:4DC2861E4ADF076A47D40BB4DBE36A1C BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_00000000f6eb915a Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_0_0_0_0 SpatiallyLoaded:0 Bounds:(Editor:IsValid=true, Min=(X=311.069 Y=-453.931 Z=-60.706), Max=(X=12691.140 Y=14156.139 Z=3522.575) Runtime:IsValid=true, Min=(X=0.000 Y=-453.931 Z=-60.706), Max=(X=12691.140 Y=14156.139 Z=3522.575)) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- Guid:50DF4A5A46F1701745813A8E05DC8700 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1909761027 Label:PMCLineStrip99 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:51B81FB64CB111FC4BE8E7BD13F41CC8 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1523227684 Label:PMCLineStrip6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:528426DE4AF3CA95FC64499592AF0553 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904291995 Label:PMCLineStrip67 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:52D3994E4931AA1D78574BA9FE998691 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904453996 Label:PMCLineStrip68 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:5649BE0C4FCD8BA16FB148A0B51044F1 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1523912686 Label:PMCLineStrip8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:589CEBCE4A1BD6F9A86E0294683DA7C1 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284055859 Label:PMCLineStrip23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:58EAD47C4286AEB7C27F65AD696D2926 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908030017 Label:PMCLineStrip89 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:5AFF66EA43143ED37FC275A1BEDCA7B7 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908741021 Label:PMCLineStrip93 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:5B1951ED4500078A281A5E8717408A86 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904128994 Label:PMCLineStrip66 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:5DB31D594E4EFD9E55B4B3BB137D721B BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1527296692 Label:PMCLineStrip14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:5E8896D9456C60A74B68C9A893E74BA7 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1470009679 Label:PMCLineStrip SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:637EDC7349666CA0FBBAC7B19C89C707 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1526965691 Label:PMCLineStrip13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:6711A69E4AF7982795CB659BED3CCE65 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902686985 Label:PMCLineStrip57 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:68AF3C2141F3EC4FB8402FB6FE8A4386 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1288215881 Label:PMCLineStrip45 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:6A5DE00F41F85F254AB98697ED1DAE47 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1283893858 Label:PMCLineStrip22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:6CE46D3F4CD3DEE14637F19576A60DEE BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285565868 Label:PMCLineStrip32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:6FF7506846E73FF960BF13874D03184F BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902857986 Label:PMCLineStrip58 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:7155CCAD45509C2019F88F96EF33D5F3 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286260872 Label:PMCLineStrip36 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:793B102B4DA67A1AC50DBE94D282A8B0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E89C25375EBF2D3102_1554800338 Label:Cone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13143.055 Y=22498.893 Z=-1506.134), Max=(X=-9943.055 Y=25698.893 Z=1693.865) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7A4F896441E4B92B25F5A7A6C113B362 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1522528682 Label:PMCLineStrip4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:7AF2531C4022BBF2C44DC784BC5A28CD BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1905129000 Label:PMCLineStrip72 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:7BC6B2FF46333E1F8EFF2E87D5F9E87D BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1283265855 Label:PMCLineStrip19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:7DCF07DF482CF1E5E33F029B11B33EB1 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908903022 Label:PMCLineStrip94 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:7DE5216644C7B29A819D2385FAFC6E7B BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1907688015 Label:PMCLineStrip87 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:8207E77843A219CFA3AC74A9E251C1EE BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1527605693 Label:PMCLineStrip15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:826E5CE84BA9091A5AE47E9D6425369A BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1287163877 Label:PMCLineStrip41 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:88B00EE843AF50D62FAAF68ED0950493 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906663009 Label:PMCLineStrip81 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:8C6C57FF4E46443AF8D3449FC5445134 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1905840004 Label:PMCLineStrip76 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:8CD1655E497803083B1F23AC53A48DE7 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1525977690 Label:PMCLineStrip12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:8E245B21494679FEFF8473B29B2DED68 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1525587689 Label:PMCLineStrip11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:8FC9285A4449426B4CCA318895071829 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1523581685 Label:PMCLineStrip7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:925624044AE46F51DAABE2A32A6DBDE4 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906321007 Label:PMCLineStrip79 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:94AD4D404EA9438C1CF7AD84A8225D7F BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285219866 Label:PMCLineStrip30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:A02B28E34120E53DECD1F58DB749136A BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285056865 Label:PMCLineStrip29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:A09FA8D74E290C57568C4394DE8AFDFF BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1907858016 Label:PMCLineStrip88 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:A3483C2D40CC7712D7572D93DB7EFFC2 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285385867 Label:PMCLineStrip31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:A3A00F154A8A93AA86212197EFF909D8 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1905301001 Label:PMCLineStrip73 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:A4397D824EED0C5D55C9B4A470ACCD82 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286438873 Label:PMCLineStrip37 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:A4FD49624C0E747924EC869D164C99EA BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903785992 Label:PMCLineStrip64 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:A56DED2C44B493E8A7096CBA799E8F63 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903629991 Label:PMCLineStrip63 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:A9B9A88240763AD3D2B02B92D67D70E1 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903467990 Label:PMCLineStrip62 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:A9F7FCF64BC0850BA602C5A462D4205B BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1283727857 Label:PMCLineStrip21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:AEA791CF49328F75592C909A938787EC BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1288774882 Label:PMCLineStrip46 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:AED21CDC4338849D8B42AB84843BDECC BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1909425025 Label:PMCLineStrip97 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:B024CA75418E86CCFADBDDBD45C5E1DB BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284379861 Label:PMCLineStrip25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:B27C7D0145E6D8FC3E345DB5ACBF3DCC BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1524274687 Label:PMCLineStrip9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:B335B5264ADD42CA3E424DBC5231B34C BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_000000007068184a Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_0_-1_-1_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1178.824 Y=-12656.138 Z=-3919.226), Max=(X=14136.140 Y=1650.911 Z=32.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- Guid:B34BFB534D32C738FC26669E09CEA368 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284706863 Label:PMCLineStrip27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:B568097845800E4A6F8B04B17BD9FA11 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_000000007547e4fd Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_0_0_0_1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-13874.567 Y=-13876.525 Z=3476.112), Max=(X=13980.001 Y=13978.040 Z=3552.488) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- Guid:BC7DBEC44E43AEDC517A4EAE120C899E BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1909246024 Label:PMCLineStrip96 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:BCF5BD93447AC0F4C8E3BDA874BFA93E BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_0000000026ca1767 Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_0_-1_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-408.931 Y=-12666.138 Z=-60.706), Max=(X=14126.140 Y=-236.068 Z=3522.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- Guid:BD5BF5E64E9BCE60CE8383B3872BD9B6 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1901821980 Label:PMCLineStrip52 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:C1C1A6A1409126AAAB13D3818C3A022B BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902017981 Label:PMCLineStrip53 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:C6925CE445FAC43B0843FA8E8B80841E BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_0000000044e25685 Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_-1_0_-1_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-14086.138 Y=-1634.137 Z=-3919.226), Max=(X=1240.911 Y=12731.139 Z=32.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- Guid:C71BD3074A278EFA55F049AFB8978054 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1527936694 Label:PMCLineStrip16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:C9A5DAA542AFDDCE158197BE10EEEEA2 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1909083023 Label:PMCLineStrip95 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:CD5DEB8746796B391E36BD97E447389A BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_000000006121b15b Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_0_0_-1_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1628.824 Y=-1219.137 Z=-3919.226), Max=(X=12701.140 Y=14166.139 Z=32.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- Guid:CE5DCBA745D358E271F38FADE08147B0 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1287335878 Label:PMCLineStrip42 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:D04F9DE644E60FA8501744B17BCB36DF BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903003987 Label:PMCLineStrip59 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:D146AD924578D3E21938208A923D1F0A BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906003005 Label:PMCLineStrip77 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:D23703DC4321CB13C5E3BC8310441DE3 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908568020 Label:PMCLineStrip92 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:D3C743754E2C4D6B5FC2D08FF8D2E165 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908210018 Label:PMCLineStrip90 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6660.000), Max=(X=-5600.000 Y=-50.000 Z=-6660.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:D5C7ED0442E20338055BC996DF1BE148 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1524620688 Label:PMCLineStrip10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:D6D74E7945949D98DE384E81A29A2D57 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1863327977 Label:PMCLineStrip49 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:DA415456474007EECB3553A026294AA9 BaseClass:/Game/Blueprints/BP_Dissolve.BP_Dissolve_C NativeClass:/Script/Engine.Actor Name:BP_Dissolve_C_UAID_E89C25375EBF0B2902_2031430734 Label:BP_Dissolve SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9188.893 Y=8600.814 Z=-1485.055), Max=(X=-5511.107 Y=12609.186 Z=2485.055) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DBF367D34F2861BA2E61E38DA2760CFB BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1287556879 Label:PMCLineStrip43 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:DC017F1D457775A6032550AB46A9B532 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1520126680 Label:PMCLineStrip2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:DCDA6D044099430D6AE1319201C25BD9 BaseClass:/Game/Blueprints/BP_PlayerStart.BP_PlayerStart_C NativeClass:/Script/Engine.PlayerStart Name:BP_PlayerStart_C_UAID_E89C25375EBFDE2E02_1794922143 Label:BP_PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-8014.609 Y=1668.286 Z=-2609.682), Max=(X=-7905.327 Y=1777.568 Z=-2425.682) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E1BEF2824ABFF645892922B02AA6A4D8 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1907173012 Label:PMCLineStrip84 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:E37C143C44AED9BB15EE0E82B7D4D1D4 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902531984 Label:PMCLineStrip56 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:E408ABC7404A34F83E40ED9DC6FFE1AB BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1907336013 Label:PMCLineStrip85 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:E47818B7473C6A2F5EABF993089FDBD3 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1283547856 Label:PMCLineStrip20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:E9036784462CD91F76B0C2934D5B8D37 BaseClass:/Game/KSTAR_noLimiter_Blueprint.KSTAR_noLimiter_Blueprint_C NativeClass:/Script/Engine.Actor Name:KSTAR_noLimiter_Blueprint_C_UAID_E89C25375EBF3C3002_1216520743 Label:KSTAR_noLimiter_Blueprint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14086.138 Y=-14101.138 Z=-3919.226), Max=(X=14136.140 Y=14166.139 Z=3552.488) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EA804D944165795BB999E98AF4E0978E BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1900037978 Label:PMCLineStrip50 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:EC8D68814AC717E1E8356792DECDF7BB BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1287690880 Label:PMCLineStrip44 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:EE2B2AC041D78234297617A2EAABB61F BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902204982 Label:PMCLineStrip54 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:EEBC8FCC439DFA6D081EA192E2C7053F BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286611874 Label:PMCLineStrip38 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:F38DA3B44338FE14C01D62AB6AD7293F BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904616997 Label:PMCLineStrip69 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:F8A9085A4B6983C54F484FB9285D5D92 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286095871 Label:PMCLineStrip35 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:F9F66F4343284900E68AEB97C63890CA BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906993011 Label:PMCLineStrip83 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:FBBC722245456063FC452B8355E1B1E3 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286982876 Label:PMCLineStrip40 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:FF04DB8A42DBFDA8C2991D82398C26C1 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1528365695 Label:PMCLineStrip17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- Guid:FFF8BA424F745B5BC7B21C8F4149DB50 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284219860 Label:PMCLineStrip24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:03C78FDB4B1F8FF02A4955B08FF48929 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1905480002 Label:PMCLineStrip74 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:05BF47A442C4C99E76B45085CF663849 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908382019 Label:PMCLineStrip91 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:09B06F214663C2B7BE23A3899B342748 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_0000000059588f23 Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_-1_0_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-14076.138 Y=-159.186 Z=-1051.000), Max=(X=528.932 Y=12721.139 Z=3522.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:0B67396445A38FACD13E0E934EADBE34 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285740869 Label:PMCLineStrip33 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:0E4F85E5457DE5D6AC77A5A4BDBCE81A BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1905668003 Label:PMCLineStrip75 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:0EECFB594ED1873ED29EEFA176674546 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1522889683 Label:PMCLineStrip5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:11AD2C48407DDC690E3BDDB4EB68E339 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1901274979 Label:PMCLineStrip51 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:13A7B87C4F7F0BA6D447DFBC798B75FF BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1858743976 Label:PMCLineStrip48 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:14D9671F485247625E2BADAE2C8F3A10 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1528671696 Label:PMCLineStrip18 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:14FA081F4EC5F9436421AF8FD8A59181 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1522128681 Label:PMCLineStrip3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:1E85058749729CC7AA7F7BBA25BE3564 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_000000000c23e31c Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_-1_-1_-1_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12651.138 Y=-14091.138 Z=-3919.226), Max=(X=3965.390 Y=3942.507 Z=32.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:1EB62E4544A5AFCB347409AA5356B4EE BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286791875 Label:PMCLineStrip39 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:21055B6F4A8E49AE281EA0884004839C BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284535862 Label:PMCLineStrip26 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:24A52C494F899A1F42BE32B54AB789D4 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1855515975 Label:PMCLineStrip47 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:27A90FA74516C7DDAC037DA3A32150BB BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902369983 Label:PMCLineStrip55 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:2B7268EF4F25A58ADB754E97D8621E5A BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906828010 Label:PMCLineStrip82 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:2D7D0F7D47CE69015BB7A38CBB116C16 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904958999 Label:PMCLineStrip71 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:2E33CF0D43B15D6EE28C8B8473526F57 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903314989 Label:PMCLineStrip61 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:2EB8769D43CB9C963F0234AF548DFC35 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1909604026 Label:PMCLineStrip98 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:2F513B8547218213721A6593CB705A7D BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904777998 Label:PMCLineStrip70 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:3487517944A1BCFA5229BFABFB63D495 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906166006 Label:PMCLineStrip78 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:34F657B3497165148BD693A379029DA9 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906483008 Label:PMCLineStrip80 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:353374B24475509E6EA84E93B903078B BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1907515014 Label:PMCLineStrip86 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:38346C254580E297903F38931EA11A21 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903158988 Label:PMCLineStrip60 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:3E7DCB354B294272965458827C5DC7CD BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_000000001305efca Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_-1_-1_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-12641.138 Y=-14101.138 Z=-1355.870), Max=(X=2240.900 Y=2239.380 Z=3522.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:3F765EB140CEC13AB0AD0C8AF901CD7C BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284876864 Label:PMCLineStrip28 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:40A3A2D44B0ECCE1DA997CA08C2BF3C2 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285915870 Label:PMCLineStrip34 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:445D625C403A34D6BEACE2B0DF573021 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1910181028 Label:PMCLineStrip100 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:49B327FF4701EB83386898A5CD067179 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903948993 Label:PMCLineStrip65 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:4DC2861E4ADF076A47D40BB4DBE36A1C BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_00000000f6eb915a Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_0_0_0_0 SpatiallyLoaded:0 Bounds:(Editor:IsValid=true, Min=(X=311.069 Y=-453.931 Z=-60.706), Max=(X=12691.140 Y=14156.139 Z=3522.575) Runtime:IsValid=true, Min=(X=0.000 Y=-453.931 Z=-60.706), Max=(X=12691.140 Y=14156.139 Z=3522.575)) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:50DF4A5A46F1701745813A8E05DC8700 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1909761027 Label:PMCLineStrip99 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:51B81FB64CB111FC4BE8E7BD13F41CC8 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1523227684 Label:PMCLineStrip6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:528426DE4AF3CA95FC64499592AF0553 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904291995 Label:PMCLineStrip67 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:52D3994E4931AA1D78574BA9FE998691 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904453996 Label:PMCLineStrip68 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:5649BE0C4FCD8BA16FB148A0B51044F1 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1523912686 Label:PMCLineStrip8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:589CEBCE4A1BD6F9A86E0294683DA7C1 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284055859 Label:PMCLineStrip23 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:58EAD47C4286AEB7C27F65AD696D2926 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908030017 Label:PMCLineStrip89 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:5AFF66EA43143ED37FC275A1BEDCA7B7 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908741021 Label:PMCLineStrip93 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:5B1951ED4500078A281A5E8717408A86 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904128994 Label:PMCLineStrip66 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:5DB31D594E4EFD9E55B4B3BB137D721B BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1527296692 Label:PMCLineStrip14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:5E8896D9456C60A74B68C9A893E74BA7 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1470009679 Label:PMCLineStrip SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:637EDC7349666CA0FBBAC7B19C89C707 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1526965691 Label:PMCLineStrip13 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:6711A69E4AF7982795CB659BED3CCE65 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902686985 Label:PMCLineStrip57 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:68AF3C2141F3EC4FB8402FB6FE8A4386 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1288215881 Label:PMCLineStrip45 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:6A5DE00F41F85F254AB98697ED1DAE47 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1283893858 Label:PMCLineStrip22 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:6CE46D3F4CD3DEE14637F19576A60DEE BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285565868 Label:PMCLineStrip32 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:6FF7506846E73FF960BF13874D03184F BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902857986 Label:PMCLineStrip58 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:7155CCAD45509C2019F88F96EF33D5F3 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286260872 Label:PMCLineStrip36 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:793B102B4DA67A1AC50DBE94D282A8B0 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_E89C25375EBF2D3102_1554800338 Label:Cone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-13143.055 Y=22498.893 Z=-1506.134), Max=(X=-9943.055 Y=25698.893 Z=1693.865) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:7A4F896441E4B92B25F5A7A6C113B362 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1522528682 Label:PMCLineStrip4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:7AF2531C4022BBF2C44DC784BC5A28CD BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1905129000 Label:PMCLineStrip72 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:7BC6B2FF46333E1F8EFF2E87D5F9E87D BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1283265855 Label:PMCLineStrip19 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:7DCF07DF482CF1E5E33F029B11B33EB1 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908903022 Label:PMCLineStrip94 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:7DE5216644C7B29A819D2385FAFC6E7B BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1907688015 Label:PMCLineStrip87 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:8207E77843A219CFA3AC74A9E251C1EE BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1527605693 Label:PMCLineStrip15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:826E5CE84BA9091A5AE47E9D6425369A BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1287163877 Label:PMCLineStrip41 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:88B00EE843AF50D62FAAF68ED0950493 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906663009 Label:PMCLineStrip81 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:8C6C57FF4E46443AF8D3449FC5445134 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1905840004 Label:PMCLineStrip76 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:8CD1655E497803083B1F23AC53A48DE7 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1525977690 Label:PMCLineStrip12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:8E245B21494679FEFF8473B29B2DED68 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1525587689 Label:PMCLineStrip11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:8FC9285A4449426B4CCA318895071829 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1523581685 Label:PMCLineStrip7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:925624044AE46F51DAABE2A32A6DBDE4 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906321007 Label:PMCLineStrip79 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:94AD4D404EA9438C1CF7AD84A8225D7F BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285219866 Label:PMCLineStrip30 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:A02B28E34120E53DECD1F58DB749136A BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285056865 Label:PMCLineStrip29 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:A09FA8D74E290C57568C4394DE8AFDFF BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1907858016 Label:PMCLineStrip88 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:A3483C2D40CC7712D7572D93DB7EFFC2 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1285385867 Label:PMCLineStrip31 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 69]
+ |   |   |   |- Guid:A3A00F154A8A93AA86212197EFF909D8 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1905301001 Label:PMCLineStrip73 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 70]
+ |   |   |   |- Guid:A4397D824EED0C5D55C9B4A470ACCD82 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286438873 Label:PMCLineStrip37 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 71]
+ |   |   |   |- Guid:A4FD49624C0E747924EC869D164C99EA BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903785992 Label:PMCLineStrip64 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 72]
+ |   |   |   |- Guid:A56DED2C44B493E8A7096CBA799E8F63 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903629991 Label:PMCLineStrip63 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 73]
+ |   |   |   |- Guid:A9B9A88240763AD3D2B02B92D67D70E1 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903467990 Label:PMCLineStrip62 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 74]
+ |   |   |   |- Guid:A9F7FCF64BC0850BA602C5A462D4205B BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1283727857 Label:PMCLineStrip21 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 75]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 76]
+ |   |   |   |- Guid:AEA791CF49328F75592C909A938787EC BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1288774882 Label:PMCLineStrip46 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 77]
+ |   |   |   |- Guid:AED21CDC4338849D8B42AB84843BDECC BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1909425025 Label:PMCLineStrip97 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 78]
+ |   |   |   |- Guid:B024CA75418E86CCFADBDDBD45C5E1DB BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284379861 Label:PMCLineStrip25 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 79]
+ |   |   |   |- Guid:B27C7D0145E6D8FC3E345DB5ACBF3DCC BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1524274687 Label:PMCLineStrip9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 80]
+ |   |   |   |- Guid:B335B5264ADD42CA3E424DBC5231B34C BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_000000007068184a Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_0_-1_-1_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1178.824 Y=-12656.138 Z=-3919.226), Max=(X=14136.140 Y=1650.911 Z=32.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- [+] [ 81]
+ |   |   |   |- Guid:B34BFB534D32C738FC26669E09CEA368 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284706863 Label:PMCLineStrip27 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 82]
+ |   |   |   |- Guid:B568097845800E4A6F8B04B17BD9FA11 BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_000000007547e4fd Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_0_0_0_1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-13874.567 Y=-13876.525 Z=3476.112), Max=(X=13980.001 Y=13978.040 Z=3552.488) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- [+] [ 83]
+ |   |   |   |- Guid:BC7DBEC44E43AEDC517A4EAE120C899E BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1909246024 Label:PMCLineStrip96 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 84]
+ |   |   |   |- Guid:BCF5BD93447AC0F4C8E3BDA874BFA93E BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_0000000026ca1767 Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_0_-1_0_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-408.931 Y=-12666.138 Z=-60.706), Max=(X=14126.140 Y=-236.068 Z=3522.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- [+] [ 85]
+ |   |   |   |- Guid:BD5BF5E64E9BCE60CE8383B3872BD9B6 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1901821980 Label:PMCLineStrip52 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 86]
+ |   |   |   |- Guid:C1C1A6A1409126AAAB13D3818C3A022B BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902017981 Label:PMCLineStrip53 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 87]
+ |   |   |   |- Guid:C6925CE445FAC43B0843FA8E8B80841E BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_0000000044e25685 Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_-1_0_-1_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-14086.138 Y=-1634.137 Z=-3919.226), Max=(X=1240.911 Y=12731.139 Z=32.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- [+] [ 88]
+ |   |   |   |- Guid:C71BD3074A278EFA55F049AFB8978054 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1527936694 Label:PMCLineStrip16 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 89]
+ |   |   |   |- Guid:C9A5DAA542AFDDCE158197BE10EEEEA2 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1909083023 Label:PMCLineStrip95 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 90]
+ |   |   |   |- Guid:CD5DEB8746796B391E36BD97E447389A BaseClass: NativeClass:/Script/Engine.WorldPartitionHLOD Name:LineStripAndNiagara_HLOD0_Instancing_000000006121b15b Label:LineStripAndNiagara_HLOD0_Instancing/LineStripAndNiagara_MainGrid_0_0_-1_0 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1628.824 Y=-1219.137 Z=-3919.226), Max=(X=12701.140 Y=14166.139 Z=32.575) RuntimeGrid:MainGrid:LineStripAndNiagara_HLOD0_Instancing EditorOnly:0 RuntimeOnly:1 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:HLOD/LineStripAndNiagara_HLOD0_Instancing FolderGuid:B10469F04F3958A3D8822F9BA8C3FDB2
+ |   |   |- [+] [ 91]
+ |   |   |   |- Guid:CE5DCBA745D358E271F38FADE08147B0 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1287335878 Label:PMCLineStrip42 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 92]
+ |   |   |   |- Guid:D04F9DE644E60FA8501744B17BCB36DF BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1903003987 Label:PMCLineStrip59 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 93]
+ |   |   |   |- Guid:D146AD924578D3E21938208A923D1F0A BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906003005 Label:PMCLineStrip77 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 94]
+ |   |   |   |- Guid:D23703DC4321CB13C5E3BC8310441DE3 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908568020 Label:PMCLineStrip92 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 95]
+ |   |   |   |- Guid:D3C743754E2C4D6B5FC2D08FF8D2E165 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1908210018 Label:PMCLineStrip90 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 96]
+ |   |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6660.000), Max=(X=-5600.000 Y=-50.000 Z=-6660.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 97]
+ |   |   |   |- Guid:D5C7ED0442E20338055BC996DF1BE148 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1524620688 Label:PMCLineStrip10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 98]
+ |   |   |   |- Guid:D6D74E7945949D98DE384E81A29A2D57 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1863327977 Label:PMCLineStrip49 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [ 99]
+ |   |   |   |- Guid:DA415456474007EECB3553A026294AA9 BaseClass:/Game/Blueprints/BP_Dissolve.BP_Dissolve_C NativeClass:/Script/Engine.Actor Name:BP_Dissolve_C_UAID_E89C25375EBF0B2902_2031430734 Label:BP_Dissolve SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-9188.893 Y=8600.814 Z=-1485.055), Max=(X=-5511.107 Y=12609.186 Z=2485.055) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [100]
+ |   |   |   |- Guid:DBF367D34F2861BA2E61E38DA2760CFB BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1287556879 Label:PMCLineStrip43 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [101]
+ |   |   |   |- Guid:DC017F1D457775A6032550AB46A9B532 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1520126680 Label:PMCLineStrip2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [102]
+ |   |   |   |- Guid:DCDA6D044099430D6AE1319201C25BD9 BaseClass:/Game/Blueprints/BP_PlayerStart.BP_PlayerStart_C NativeClass:/Script/Engine.PlayerStart Name:BP_PlayerStart_C_UAID_E89C25375EBFDE2E02_1794922143 Label:BP_PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-8014.609 Y=1668.286 Z=-2609.682), Max=(X=-7905.327 Y=1777.568 Z=-2425.682) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [103]
+ |   |   |   |- Guid:E1BEF2824ABFF645892922B02AA6A4D8 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1907173012 Label:PMCLineStrip84 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [104]
+ |   |   |   |- Guid:E37C143C44AED9BB15EE0E82B7D4D1D4 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902531984 Label:PMCLineStrip56 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [105]
+ |   |   |   |- Guid:E408ABC7404A34F83E40ED9DC6FFE1AB BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1907336013 Label:PMCLineStrip85 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [106]
+ |   |   |   |- Guid:E47818B7473C6A2F5EABF993089FDBD3 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1283547856 Label:PMCLineStrip20 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [107]
+ |   |   |   |- Guid:E9036784462CD91F76B0C2934D5B8D37 BaseClass:/Game/KSTAR_noLimiter_Blueprint.KSTAR_noLimiter_Blueprint_C NativeClass:/Script/Engine.Actor Name:KSTAR_noLimiter_Blueprint_C_UAID_E89C25375EBF3C3002_1216520743 Label:KSTAR_noLimiter_Blueprint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-14086.138 Y=-14101.138 Z=-3919.226), Max=(X=14136.140 Y=14166.139 Z=3552.488) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [108]
+ |   |   |   |- Guid:EA804D944165795BB999E98AF4E0978E BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1900037978 Label:PMCLineStrip50 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [109]
+ |   |   |   |- Guid:EC8D68814AC717E1E8356792DECDF7BB BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1287690880 Label:PMCLineStrip44 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [110]
+ |   |   |   |- Guid:EE2B2AC041D78234297617A2EAABB61F BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1902204982 Label:PMCLineStrip54 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [111]
+ |   |   |   |- Guid:EEBC8FCC439DFA6D081EA192E2C7053F BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286611874 Label:PMCLineStrip38 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [112]
+ |   |   |   |- Guid:F38DA3B44338FE14C01D62AB6AD7293F BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1904616997 Label:PMCLineStrip69 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [113]
+ |   |   |   |- Guid:F8A9085A4B6983C54F484FB9285D5D92 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286095871 Label:PMCLineStrip35 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [114]
+ |   |   |   |- Guid:F9F66F4343284900E68AEB97C63890CA BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF022602_1906993011 Label:PMCLineStrip83 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [115]
+ |   |   |   |- Guid:FBBC722245456063FC452B8355E1B1E3 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1286982876 Label:PMCLineStrip40 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [116]
+ |   |   |   |- Guid:FF04DB8A42DBFDA8C2991D82398C26C1 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0C2502_1528365695 Label:PMCLineStrip17 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |   |   |- [+] [117]
+ |   |   |   |- Guid:FFF8BA424F745B5BC7B21C8F4149DB50 BaseClass: NativeClass:/Script/KSTAR.PMCLineStrip Name:PMCLineStrip_UAID_E89C25375EBF0D2502_1284219860 Label:PMCLineStrip24 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=190.000), Max=(X=0.000 Y=0.000 Z=190.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:TrajectoryInfo FolderGuid:68048B2B47E1A9DF7A0E7DA096296025
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-14086.138 Y=-14101.138 Z=-3919.226), Max=(X=14136.140 Y=25698.893 Z=3552.488)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Map/LineStripAndNiagara
+----------------------------------------------------------------------------------------------------------------
+LineStripAndNiagara - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of LineStripAndNiagara Persistent Level
+ |- Always loaded Actor Count: 15 
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.BP_PlayerStart_C_UAID_E89C25375EBFDE2E02_1794922143
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/4/TZ/RVIOE90COT9RSLLIIHDR7X
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/6/B3/OUXWFPAOK4RXWKWC5PTXOE
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/7/IL/IIZAI75G75H2UG3IZ2JLRF
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.LineStripAndNiagara_HLOD0_Instancing_000000000c23e31c
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/3/MA/94PPO8UV8QCL0JYPJQEWQU
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.LineStripAndNiagara_HLOD0_Instancing_000000001305efca
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/8/DF/QN7IYOCC8O3ZXB9DG079IU
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.LineStripAndNiagara_HLOD0_Instancing_0000000026ca1767
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/7/DG/M8Q95DAZH06AC8MM0W0OHR
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.LineStripAndNiagara_HLOD0_Instancing_0000000044e25685
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/7/FX/I478CZWKL1FZJMJIDVT2IX
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.LineStripAndNiagara_HLOD0_Instancing_0000000059588f23
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/4/Y9/AO2V04XUH7XFBWRV8AT4XO
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.LineStripAndNiagara_HLOD0_Instancing_000000006121b15b
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/A/AO/9NR792XO6ZSED8E8ZYPJ21
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.LineStripAndNiagara_HLOD0_Instancing_000000007068184a
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/0/U7/C6FSZD3P79A6XJQZMLW6Z8
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.LineStripAndNiagara_HLOD0_Instancing_000000007547e4fd
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/KJ/GS19WA9ZPJFXVJ53RNMNCR
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.LineStripAndNiagara_HLOD0_Instancing_00000000f6eb915a
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/7/VH/WQH0ZG1AY1MB8AGC0ZCUGG
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/5/2K/NR3J1N7G3OORMM2LE4N3HN
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/E/O4/9OAH8AZ0FJJRKERTUU2EOH
+ |- Actor Path: /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/5/FS/VZYQZCDA8HW3HKNKT28MPQ
+
+----------------------------------------------------------------------------------------------------------------
+LineStripAndNiagara - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell LineStripAndNiagara_MainGrid_0_0_-1_1 (79TF7M535ECIZ0S6W289V2XIV)
+ |- Actor Count: 1
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.KSTAR_noLimiter_Blueprint_C_UAID_E89C25375EBF3C3002_1216520743
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/B/E1/OG2T9W7K5BFDOPF4DXW8KR
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: E9036784462CD91F76B0C2934D5B8D37
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell LineStripAndNiagara_MainGrid_-1_0_0_0 (DABP527939K7OR4Q1WZP3YR3U)
+ |- Actor Count: 2
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.StaticMeshActor_UAID_E89C25375EBF2D3102_1554800338
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/E/JT/DNL74A7FH8MCVVYVZDUER1
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 793B102B4DA67A1AC50DBE94D282A8B0
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.BP_Dissolve_C_UAID_E89C25375EBF0B2902_2031430734
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/3/Z2/8XI4P3XO8JEHYTVV5FVAHI
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: DA415456474007EECB3553A026294AA9
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell LineStripAndNiagara_MainGrid_0_0_0_0 (DOL0J4MDFPHV4YOH98OQOQCJY)
+ |- Actor Count: 100
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1905480002
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/B/6H/CK7NAI0VPD3JZVIBR9N07D
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 03C78FDB4B1F8FF02A4955B08FF48929
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1908382019
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/6/0T/F9436VKSTQRO39G2R9F7X7
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 05BF47A442C4C99E76B45085CF663849
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1285740869
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/5/ZS/DOORQVMJQF0Q5JH0UN5XIN
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0B67396445A38FACD13E0E934EADBE34
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1905668003
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/RK/GI4LCYVJJPL24JPBEFMLXK
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0E4F85E5457DE5D6AC77A5A4BDBCE81A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1522889683
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/E/5F/Y5VIAJWXMZBNXRSMJSYFY6
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0EECFB594ED1873ED29EEFA176674546
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1901274979
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/PU/A00J9HRYLQE78AOG4BSF91
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 11AD2C48407DDC690E3BDDB4EB68E339
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1858743976
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/B/K5/CPPVBZQ7JQ0PB9IRBO80J1
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 13A7B87C4F7F0BA6D447DFBC798B75FF
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1528671696
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/4/34/PLNOFRXZX5UQSFUEF7EYVX
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 14D9671F485247625E2BADAE2C8F3A10
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1522128681
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/5/EP/NOJ7LSQKGW3ZO2XZZGKILA
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 14FA081F4EC5F9436421AF8FD8A59181
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1286791875
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/1/9R/0ECVKJVU5LYSY41UN4HDDO
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 1EB62E4544A5AFCB347409AA5356B4EE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1284535862
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/B/HC/8ABJSGUQ5AS4T726JNNCC9
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 21055B6F4A8E49AE281EA0884004839C
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1855515975
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/6/HI/GMISQ4ZL0A9C4NFCYTVGX4
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 24A52C494F899A1F42BE32B54AB789D4
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1902369983
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/B/ZK/GRWYW4YC2PQJYWJNVH4PVA
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 27A90FA74516C7DDAC037DA3A32150BB
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1906828010
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/E/LD/ZLLZB2YK2SLLJJPM094L8H
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 2B7268EF4F25A58ADB754E97D8621E5A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1904958999
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/D/9Z/0799X1D09O5QBNNFH8TCZ9
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 2D7D0F7D47CE69015BB7A38CBB116C16
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1903314989
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/3/WJ/A5OEKROLVQOV099BG26WHY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 2E33CF0D43B15D6EE28C8B8473526F57
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1909604026
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/7/P2/WUYSSQ92O2GLROM6TMN855
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 2EB8769D43CB9C963F0234AF548DFC35
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1904777998
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/3/06/L5IUTHUV7AYLMFYCBWIAM7
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 2F513B8547218213721A6593CB705A7D
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1906166006
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/1/4M/ORF82F7HRCSOWKWWCHV8QR
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3487517944A1BCFA5229BFABFB63D495
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1906483008
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/7/FB/GKWQV854RURRMRUTZ952GF
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 34F657B3497165148BD693A379029DA9
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1907515014
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/2/H0/UEHTIESJOIUZI5ZKJFEOP8
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 353374B24475509E6EA84E93B903078B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1903158988
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/QN/VHZ5K5FSBWDAYSIUTZLGXP
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 38346C254580E297903F38931EA11A21
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1284876864
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/D/7E/IKO9RRJUPU0UNR6257WU1O
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3F765EB140CEC13AB0AD0C8AF901CD7C
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1285915870
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/6/60/UF46ZX0P4JA9IJORAAW3BK
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 40A3A2D44B0ECCE1DA997CA08C2BF3C2
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1910181028
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/4/WU/A9FYUU2EVC0Q3ZNNQDAL7T
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 445D625C403A34D6BEACE2B0DF573021
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1903948993
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/2/JU/MWSQ7PB4GYB4UZHJ31ELTF
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 49B327FF4701EB83386898A5CD067179
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1909761027
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/D/N2/Q910OKE9ICKKJOO5HMZAN3
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 50DF4A5A46F1701745813A8E05DC8700
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1523227684
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/3/5I/R43WHFMD6KU0NOHDWTMWII
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 51B81FB64CB111FC4BE8E7BD13F41CC8
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1904291995
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/6/XE/D2O2ZKEQGUWQZ3TGRWFI2I
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 528426DE4AF3CA95FC64499592AF0553
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1904453996
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/2/DK/XJ6R8OHE5WBOBJUJ0JKGVH
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 52D3994E4931AA1D78574BA9FE998691
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1523912686
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/6/9W/IPGC68DUBJRIWTOFUTSA8G
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5649BE0C4FCD8BA16FB148A0B51044F1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1284055859
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/8/V6/HZTIUOMGY3OW02VSXEUWJS
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 589CEBCE4A1BD6F9A86E0294683DA7C1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1908030017
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/6/N4/R309AJT4E4XH6HVEH3ZI9J
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 58EAD47C4286AEB7C27F65AD696D2926
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1908741021
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/2/6V/O68B29I30DD0XYN32Y057W
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5AFF66EA43143ED37FC275A1BEDCA7B7
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1904128994
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/D/WP/EUAPR35I9BWEISW9TG4EP0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5B1951ED4500078A281A5E8717408A86
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1527296692
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/A/Y6/UO8J6SO8LNRTE3YTPWYBFU
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5DB31D594E4EFD9E55B4B3BB137D721B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1470009679
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/A/XO/LMKEHZ3B1A6HKTEQMQARW0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5E8896D9456C60A74B68C9A893E74BA7
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1526965691
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/9/7C/RNKDN5YS3K8PY1AQ26FN41
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 637EDC7349666CA0FBBAC7B19C89C707
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1902686985
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/3/UP/MMGF21PYD9JDDS8SOCBS44
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 6711A69E4AF7982795CB659BED3CCE65
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1288215881
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/9/OW/Y9DM9M0Y5JHN6ANEQV1X32
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 68AF3C2141F3EC4FB8402FB6FE8A4386
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1283893858
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/6S/16IRZF0ULX64QN894SNOSM
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 6A5DE00F41F85F254AB98697ED1DAE47
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1285565868
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/A/WP/0I67MH4N14PACCZYQZ5DM0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 6CE46D3F4CD3DEE14637F19576A60DEE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1902857986
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/TU/F3YR5X112QNRB78QG47LCM
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 6FF7506846E73FF960BF13874D03184F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1286260872
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/B/WQ/WFWW3ZNYGVH2PVE9SJHDG7
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7155CCAD45509C2019F88F96EF33D5F3
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1522528682
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/EZ/ZEF8YT65HHLFZ29DDW4X7N
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7A4F896441E4B92B25F5A7A6C113B362
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1905129000
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/B/TW/TCJXDU8SGMHC8T9U75Z7IH
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7AF2531C4022BBF2C44DC784BC5A28CD
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1283265855
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/8/WL/GTT7KDV2LPW3NBN0T4BZ4F
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7BC6B2FF46333E1F8EFF2E87D5F9E87D
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1908903022
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/GK/VPZUEA7FLYLRI83MSG9WC6
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7DCF07DF482CF1E5E33F029B11B33EB1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1907688015
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/6/LB/6D5EVAJQ5EEJST5AFKCVV2
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7DE5216644C7B29A819D2385FAFC6E7B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1527605693
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/2/VA/4J5HEQ7ELUIPN4DDLVG5DW
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 8207E77843A219CFA3AC74A9E251C1EE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1287163877
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/1/TY/MVD1YIBHWH2BIELCOPY7PS
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 826E5CE84BA9091A5AE47E9D6425369A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1906663009
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/0/DS/HUSU7GRKJ05KN5LZOJRT93
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 88B00EE843AF50D62FAAF68ED0950493
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1905840004
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/GF/JZ9ZEUG9EYOKH0K0BBG7XL
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 8C6C57FF4E46443AF8D3449FC5445134
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1525977690
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/9/L7/NP713XDJW7RYCTPIIMPJWC
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 8CD1655E497803083B1F23AC53A48DE7
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1525587689
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/D/O8/VAL9CDAXDQ38NZAIY7XV22
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 8E245B21494679FEFF8473B29B2DED68
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1523581685
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/9/5J/RRR6CQ4GHC27S6PHDZN46E
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 8FC9285A4449426B4CCA318895071829
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1906321007
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/4/WG/UX6HGMLOGYYMJJBTFUNHVI
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 925624044AE46F51DAABE2A32A6DBDE4
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1285219866
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/7/AT/2IBO9UCR8OAFBTNWIWS4B0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 94AD4D404EA9438C1CF7AD84A8225D7F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1285056865
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/2/SS/LULH3RPL2C4144LIA2OY3W
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A02B28E34120E53DECD1F58DB749136A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1907858016
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/5/QX/D9T4X8JD8TMJZTHCN8SHJB
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A09FA8D74E290C57568C4394DE8AFDFF
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1285385867
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/VC/C92A2CFG0AIYL3WZFPVM1T
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A3483C2D40CC7712D7572D93DB7EFFC2
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1905301001
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/4/9E/BN027DPBN5VDTQK1KFSKB4
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A3A00F154A8A93AA86212197EFF909D8
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1286438873
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/B/8Y/ECFURN7L6RAUGL2HA07KVB
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A4397D824EED0C5D55C9B4A470ACCD82
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1903785992
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/1/AK/IPTNTD33PAPNISQLJ6TDUU
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A4FD49624C0E747924EC869D164C99EA
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1903629991
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/9/9D/YXY8KAY7JT4IPDSYC46VYF
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A56DED2C44B493E8A7096CBA799E8F63
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1903467990
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/M4/99SNZB3GCFL05CI986NJTO
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A9B9A88240763AD3D2B02B92D67D70E1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1283727857
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/2/22/KPIXA36BJXC1SKD7H5MSPK
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A9F7FCF64BC0850BA602C5A462D4205B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1288774882
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/6/CY/FEFCDXCS64E2J77H1YYKC7
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: AEA791CF49328F75592C909A938787EC
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1909425025
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/3/K1/EVNAFQTPGHI3U1QI8YNMQQ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: AED21CDC4338849D8B42AB84843BDECC
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1284379861
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/D/KP/7K3UNO7OA59AQN6WBJSJ47
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B024CA75418E86CCFADBDDBD45C5E1DB
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1524274687
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/7/5Z/3LO9OVS9E4UTLZJXSD9QLP
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B27C7D0145E6D8FC3E345DB5ACBF3DCC
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1284706863
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/0/VF/ZQJR0LBE7B6AIGCN3H8KKR
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B34BFB534D32C738FC26669E09CEA368
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1909246024
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/1/OJ/UULKFZALIMW6NI93ED0ZZ5
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: BC7DBEC44E43AEDC517A4EAE120C899E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1901821980
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/0/VE/PT5C6CFNFCSG7F98YMOH14
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: BD5BF5E64E9BCE60CE8383B3872BD9B6
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1902017981
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/6/1H/YTB8GEDASE0UJJ8AYHMGXF
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C1C1A6A1409126AAAB13D3818C3A022B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1527936694
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/2/8J/LLBC6SUHWZC5RXHBHYRIZ8
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C71BD3074A278EFA55F049AFB8978054
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1909083023
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/8/9H/CBLBMR94S39F3LB4SNOI0X
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C9A5DAA542AFDDCE158197BE10EEEEA2
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1287335878
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/8/6A/H9PGTUC92WBFNDQMQR9SLB
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: CE5DCBA745D358E271F38FADE08147B0
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1903003987
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/RV/K41162LPTCHKZFC6PTOVG8
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D04F9DE644E60FA8501744B17BCB36DF
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1906003005
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/3/EU/WIM11DJMJ0WWBN55H4HIXG
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D146AD924578D3E21938208A923D1F0A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1908568020
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/2/CP/LFXUMGAVMKEZQAUF99WKNQ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D23703DC4321CB13C5E3BC8310441DE3
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1908210018
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/8/0O/DXXXHC693ND0A09BD9H90H
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D3C743754E2C4D6B5FC2D08FF8D2E165
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1524620688
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/9/P3/IZS5IACKCMUHL5JCAVY4IY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D5C7ED0442E20338055BC996DF1BE148
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1863327977
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/B/XK/3FRZ0RHMZUM86YYLWHUHWP
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D6D74E7945949D98DE384E81A29A2D57
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1287556879
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/8/L8/32PTWBO5W3NT3OFHRXZDG3
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: DBF367D34F2861BA2E61E38DA2760CFB
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1520126680
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/5/XW/Q5M5ZEGFQ171N2JKHUSR3C
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: DC017F1D457775A6032550AB46A9B532
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1907173012
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/E/L4/GV5O35TX1BY3D7EAKTFKS8
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: E1BEF2824ABFF645892922B02AA6A4D8
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1902531984
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/3/KA/EQVQ6GVUEJX6GJEFSTCSKR
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: E37C143C44AED9BB15EE0E82B7D4D1D4
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1907336013
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/9/57/1NXESMLSSZBCNITQ19ICWF
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: E408ABC7404A34F83E40ED9DC6FFE1AB
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1283547856
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/8E/HKOIEIY50M2K2T0IRMKAUF
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: E47818B7473C6A2F5EABF993089FDBD3
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1900037978
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/0/KY/ZNT4G7DWRDU3UDXJUV0URE
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: EA804D944165795BB999E98AF4E0978E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1287690880
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/C/FY/5ZNB4UW5JE9SSONKA9JPM8
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: EC8D68814AC717E1E8356792DECDF7BB
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1902204982
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/4/8K/AU3I82A30BV7XHBLTB9065
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: EE2B2AC041D78234297617A2EAABB61F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1286611874
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/8/8X/Z65XM8FYIRX2N22OM8XJB2
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: EEBC8FCC439DFA6D081EA192E2C7053F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1904616997
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/0/18/6NAN4LP0UGF20WAYRH4PT9
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F38DA3B44338FE14C01D62AB6AD7293F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1286095871
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/9/4J/J4VFUBW80Q7J61J7HNIO9W
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F8A9085A4B6983C54F484FB9285D5D92
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF022602_1906993011
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/A/83/8DZ8EVCVPVFF9892Y0VN6C
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F9F66F4343284900E68AEB97C63890CA
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1286982876
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/9/GZ/A2MGJIBOVAM2SRPRA3TE9Q
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: FBBC722245456063FC452B8355E1B1E3
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0C2502_1528365695
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/E/YK/XI8O12E74XNOI7CGH6PSX3
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: FF04DB8A42DBFDA8C2991D82398C26C1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/Map/LineStripAndNiagara.LineStripAndNiagara:PersistentLevel.PMCLineStrip_UAID_E89C25375EBF0D2502_1284219860
+ |   |-         Package: /Game/__ExternalActors__/Map/LineStripAndNiagara/2/08/3H7K4J9UXAP8L99SH23QMJ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: FFF8BA424F745B5BC7B21C8F4149DB50
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+

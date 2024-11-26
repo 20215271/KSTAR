@@ -1,0 +1,1951 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\KSTAR.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KSTAR.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\KSTAREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin">
+      <UniqueIdentifier>{27327426-A8D5-3251-B66B-33D7CB0D58E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source">
+      <UniqueIdentifier>{D420F0A0-35AB-3BB3-8AAA-7762A0DB1AA0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher">
+      <UniqueIdentifier>{1AA59240-68A4-36F6-8A64-2834C476015A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\FractalMarcher.build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private">
+      <UniqueIdentifier>{BCB7ADF2-63CB-3E47-B15C-6F2FF5E59C43}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\FractalMarcher.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor">
+      <UniqueIdentifier>{26979C1E-123F-3A1A-B163-883DE5FB834B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor\FractalAudioVisualizeDriver.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor\FractalVisualizerScreen.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor\FractalVolume.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering">
+      <UniqueIdentifier>{1CF3C267-F683-3451-AA7A-EFB8A1A5C100}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering\FractalShaders.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering\FractalVideoProcessor.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering\MyProceduralMesh.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public">
+      <UniqueIdentifier>{FEDA1B1A-5E24-371C-AF07-BAF541165009}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\FractalMarcher.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor">
+      <UniqueIdentifier>{8FF9FCD6-6ABD-3CF3-85C6-4B673FB490E8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor\FractalAudioVisualizeDriver.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor\FractalVisualizerScreen.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor\FractalVolume.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering">
+      <UniqueIdentifier>{6C02E19E-8E89-305F-BC87-26200CFF1C86}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering\FractalShaders.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering\FractalVideoProcessor.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering\MyProceduralMesh.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders">
+      <UniqueIdentifier>{8F1E9AD7-D57D-33DC-9E59-4E04226DC428}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private">
+      <UniqueIdentifier>{3B959D00-6E3F-343A-ADCF-A04B3E8D5D5A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private\CalculateMandelbulbSDF.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private\QuickLight.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private\SDFMarcher.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\TBRaymarcherPlugin.uplugin">
+      <Filter>Plugins\TBRaymarcherPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Resources">
+      <UniqueIdentifier>{45D1F92B-E40E-3375-A31D-A3A0B54C4E12}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Resources\Icon128.png">
+      <Filter>Plugins\TBRaymarcherPlugin\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\RayUtils">
+      <UniqueIdentifier>{2A6BF643-D1EF-353F-BC2A-C47CCB555D84}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\RayUtils\RayUtils.build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\RayUtils</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\RayUtils\Private">
+      <UniqueIdentifier>{4DD734BF-F11A-3199-A0CE-D749F28AFFCD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\RayUtils\Private\FPerfTimer.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\RayUtils\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\RayUtils\Private\RayUtils.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\RayUtils\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\RayUtils\Public">
+      <UniqueIdentifier>{313148E7-BC5F-3CF9-9846-3A020A828BC9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\RayUtils\Public\FPerfTimer.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\RayUtils\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\RayUtils\Public\RayUtils.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\RayUtils\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher">
+      <UniqueIdentifier>{36EDEFC6-1AAF-3514-B84B-777083032CDB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Raymarcher.build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private">
+      <UniqueIdentifier>{5345667A-D145-3025-A3F4-43203FB049FB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Raymarcher.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor">
+      <UniqueIdentifier>{6723BC96-C179-3062-960E-455E49FDF3E4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\RaymarchClipPlane.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\RaymarchLight.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\RaymarchVolume.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR">
+      <UniqueIdentifier>{1BF30402-5D50-3597-A8E1-8C1B48444CD9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\Grabbable.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMotionController.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRPawn.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu">
+      <UniqueIdentifier>{47847DE6-A9BF-31FC-8B6C-D841D8BAF1E3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu\LoaderMenuPanel.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu\TFMenuPanel.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu\VRMenuPanel.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering">
+      <UniqueIdentifier>{C7C1CFFD-2140-3C4A-89DE-BE45E15AB83E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering\LightingShaders.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering\LightingShadersExperimental.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering\LightingShaderUtils.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering\OctreeShaders.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering\RaymarchTypes.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Util">
+      <UniqueIdentifier>{534AC338-2373-3A41-986C-CA0A7850BA2D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Util\RaymarchUtils.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Util</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget">
+      <UniqueIdentifier>{E4707B78-EBFC-3FED-99B1-F16B47CA8BE6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget\SliderAndValueBox.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget\TransferFuncMenu.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget\VolumeLoadMenu.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public">
+      <UniqueIdentifier>{7E9C91C6-B7A8-34E6-8C57-BFF132BD78E1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Raymarcher.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor">
+      <UniqueIdentifier>{A4A8BF9D-DCA5-3D2E-A88A-8F19B3B721D1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\RaymarchClipPlane.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\RaymarchLight.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\RaymarchVolume.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR">
+      <UniqueIdentifier>{D04F2ED9-75FE-3452-BF5A-F7DDE5BB9F86}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\Grabbable.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMotionController.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRPawn.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu">
+      <UniqueIdentifier>{8A01116D-1B3D-3E16-8F1C-D3AE118055C5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu\LoaderMenuPanel.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu\TFMenuPanel.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu\VRMenuPanel.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering">
+      <UniqueIdentifier>{85BD3EB0-076A-3450-A3F5-503AC8C11EAA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\LightingShaders.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\LightingShadersExperimental.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\LightingShaderUtils.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\OctreeShaders.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\RaymarchMaterialParameters.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\RaymarchTypes.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Util">
+      <UniqueIdentifier>{CE454FFB-BCFB-3853-BC26-84530DAFDF69}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Util\RaymarchUtils.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Util</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget">
+      <UniqueIdentifier>{E09FC03E-0EF7-3A2A-9EEA-77E131F8C5A1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget\SliderAndValueBox.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget\TransferFuncMenu.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget\VolumeLoadMenu.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders">
+      <UniqueIdentifier>{AAEACC61-FC86-3B0E-B472-8420A71381CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private">
+      <UniqueIdentifier>{EE0EF90B-D816-3114-BD87-2FEFDB3ABD12}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\AddDirLightShader.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\AddDirLightShader_GPUSync.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\ChangeDirLightShader.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\GenerateOctreeShader.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\OctreeCommon.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\RaymarcherCommon.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\RaymarchExperimental.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\RaymarchMaterialCommon.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\WindowedRaymarchMaterials.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\WindowedSampling.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Tests">
+      <UniqueIdentifier>{C90914AB-CAF9-3CC7-A86D-B2DE6D118BE8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Tests\Tests.Build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Tests</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Tests\Private">
+      <UniqueIdentifier>{02BECB0B-A2EE-34E0-B9F5-DD69A2A2C5EB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Tests\Private\Tests.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Tests\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Tests\Private\Actor">
+      <UniqueIdentifier>{27FA43ED-6F0B-3EA9-96BC-23FC57182A2E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Tests\Private\Actor\PerformanceTest1.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Tests\Private\Actor</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Tests\Public">
+      <UniqueIdentifier>{0FE7228B-59D0-3C1D-978B-D62A6713B2D0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Tests\Public\Tests.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Tests\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Tests\Public\Actor">
+      <UniqueIdentifier>{61553BC6-1C75-3CF6-B7D6-922758088B4D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Tests\Public\Actor\PerformanceTest1.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Tests\Public\Actor</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor">
+      <UniqueIdentifier>{4479A953-9B95-3651-9D5F-CEDB8A15AEA0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\VolumeTextureToolkitEditor.Build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private">
+      <UniqueIdentifier>{DC73884D-6315-309F-942B-E9F59EDE9737}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private\VolumeAssetFactory.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private\VolumeImporter.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private\VolumeTextureToolkitEditor.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public">
+      <UniqueIdentifier>{33C4D28D-B0FB-3619-BA19-B9016A75C001}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public\VolumeAssetFactory.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public\VolumeImporter.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public\VolumeTextureToolkitEditor.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit">
+      <UniqueIdentifier>{6A16F317-5ADD-35A1-83A6-79EEC27467BB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\VolumeTextureToolkit.Build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private">
+      <UniqueIdentifier>{E4ADF4EC-F813-3FB2-885F-CA823CA5FB0D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\RenderTargetVolumeMipped.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\TextureUtilities.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeTextureToolkit.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeTextureToolkitBPLibrary.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\Util">
+      <UniqueIdentifier>{CE01B728-1ABB-3D27-A202-FA8C536CD737}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\Util\UtilityShaders.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\Util</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset">
+      <UniqueIdentifier>{F1BEFA35-5207-3820-B85A-8DE2324FFFCF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\VolumeAsset.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\VolumeInfo.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders">
+      <UniqueIdentifier>{3C35D74D-B52E-306F-9019-831DF5ED7904}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders\DCMTKLoader.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders\MHDLoader.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders\VolumeLoader.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public">
+      <UniqueIdentifier>{EC030522-CBE6-3778-AAA4-F2D2C0139BB7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\RenderTargetVolumeMipped.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\TextureUtilities.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeTextureToolkit.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeTextureToolkitBPLibrary.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\Util">
+      <UniqueIdentifier>{E1605D41-5949-335D-B914-DAADD3EE4FFB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\Util\UtilityShaders.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\Util</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset">
+      <UniqueIdentifier>{D565A47C-E2D5-3F4F-9E1F-0F0C4D346D12}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\VolumeAsset.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\VolumeInfo.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\WindowingParameters.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser">
+      <UniqueIdentifier>{2C81A19F-2C18-3DB5-8937-ABC91FEC058E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\Copyright.txt">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </None>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMAppHelper.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMCallback.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMConfig.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMFile.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMParser.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMParserMap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMTypes.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders">
+      <UniqueIdentifier>{50B95EA5-3228-3ED1-8E50-9DEF1595A3F2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders\DCMTKLoader.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders\MHDLoader.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders\VolumeLoader.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders">
+      <UniqueIdentifier>{5590D53F-A023-38BC-890A-B69F2D5B8553}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private">
+      <UniqueIdentifier>{1FE7512A-574B-3E30-B652-44F6815530BA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private\ClearTextureShader.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private\ClearVolumeTextureShader.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private\GaussBlurSeparated.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty">
+      <UniqueIdentifier>{C8670887-C0C8-35A5-9CDD-B83C28DB5E3A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk">
+      <UniqueIdentifier>{DE4A5347-8463-39BE-B219-F2B4F5060137}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\version.txt">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin">
+      <UniqueIdentifier>{8464D5E7-95BC-3775-B2F0-B0C8C5988D8F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64">
+      <UniqueIdentifier>{4A8BC8D0-9F27-3DB7-8E58-51EF1FB9DEF6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\dcmdata.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\dcmimage.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\dcmimgle.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\dcmjpeg.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\dcmjpls.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\dcmtkcharls.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\ijg12.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\ijg16.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\ijg8.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\oficonv.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\oflog.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64\ofstd.dll">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\bin\Win64</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include">
+      <UniqueIdentifier>{AF298ED1-E2E2-3FB0-922D-E09CED72D079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk">
+      <UniqueIdentifier>{ACED57B1-3163-3C7C-8F4A-F8D85F4A1548}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\config">
+      <UniqueIdentifier>{03EE274B-862F-3093-AA7B-BD64E505A72D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\config\arith.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\config</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\config\osconfig.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\config</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata">
+      <UniqueIdentifier>{6A27737C-BF36-3E89-A5B2-76DC42FC0984}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\cmdlnarg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcbytstr.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcchrstr.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dccodec.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcdatset.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcdatutl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcddirif.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcdefine.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcdeftag.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcdicdir.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcdicent.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcdict.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcdirrec.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcelem.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcencdoc.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcerror.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcfcache.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcfilefo.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcfilter.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dchashdi.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcistrma.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcistrmb.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcistrmf.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcistrms.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcistrmz.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcitem.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcjson.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dclist.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcmatch.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcmetinf.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcobject.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcofsetl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcostrma.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcostrmb.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcostrmf.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcostrms.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcostrmz.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcovlay.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcpath.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcpcache.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcpixel.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcpixseq.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcpxitem.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcrleccd.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcrlecce.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcrlecp.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcrledec.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcrledrg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcrleenc.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcrleerg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcrlerp.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcsequen.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcspchrs.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcstack.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcswap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dctag.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dctagkey.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dctk.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dctypes.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcuid.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvr.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrae.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvras.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrat.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrcs.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrda.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrds.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrdt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrfd.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrfl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvris.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrlo.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrlt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrobow.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrod.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrof.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrol.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrov.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrpn.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrpobw.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrsh.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrsl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrss.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrst.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrsv.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrtm.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvruc.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrui.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrul.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrulup.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrur.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrus.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvrut.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcvruv.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcwcache.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcxfer.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\vrscan.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcmxml">
+      <UniqueIdentifier>{FCE05D87-CF41-3F69-AD0A-A6798527ECC9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcmxml\dcxmldf.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcmxml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcmxml\xml2dcm.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\dcmxml</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d">
+      <UniqueIdentifier>{DC3CCDBA-83D8-3D96-9118-5F383ED3DD3F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d\i2d.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d\i2dbmps.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d\i2define.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d\i2dimgs.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d\i2djpgs.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d\i2doutpl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d\i2dplnsc.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d\i2dplop.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d\i2dplsc.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d\i2dplvlp.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmdata\libi2d</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage">
+      <UniqueIdentifier>{BE7F11E0-1283-3662-B233-2B8C28B2BAB1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dcmicmph.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diargimg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diargpxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicdefin.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicmyimg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicmypxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicocpt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicoflt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicoimg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicomot.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicoopx.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicoopxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicopx.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicopxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicorot.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dicosct.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dihsvimg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dihsvpxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dilogger.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dipalimg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dipalpxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dipipng.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dipitiff.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diqtcmap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diqtctab.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diqtfs.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diqthash.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diqthitl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diqthitm.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diqtid.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diqtpbox.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diqtpix.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diqtstab.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diqttype.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diquant.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diregist.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dirgbimg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\dirgbpxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diybrimg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diybrpxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diyf2img.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diyf2pxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diyp2img.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage\diyp2pxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimage</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle">
+      <UniqueIdentifier>{25A2B359-F7B4-3F1A-A5B3-DEEDC5BC243A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dcmimage.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dibaslut.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diciefn.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dicielut.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dicrvfit.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\didefine.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\didislut.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\didispfn.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\didocu.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diflipt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\digsdfn.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\digsdlut.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diimage.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diinpx.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diinpxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diluptab.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimo1img.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimo2img.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimocpt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimoflt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimoimg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimoipxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimomod.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimoopx.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimoopxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimopx.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimopxt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimorot.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dimosct.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diobjcou.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diovdat.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diovlay.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diovlimg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diovpln.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dipixel.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diplugin.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dipxrept.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diregbas.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\dirotat.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\discalet.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\displint.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\ditranst.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle\diutils.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmimgle</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg">
+      <UniqueIdentifier>{E122B36B-0236-3408-914E-BF50A6522D51}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\ddpiimpl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\dipijpeg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djcodecd.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djcodece.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djcparam.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdecabs.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdecbas.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdecext.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdeclol.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdecode.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdecpro.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdecsps.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdecsv1.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdefine.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdijg12.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdijg16.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djdijg8.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djeijg12.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djeijg16.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djeijg8.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djencabs.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djencbas.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djencext.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djenclol.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djencode.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djencpro.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djencsps.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djencsv1.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djrplol.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djrploss.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg\djutils.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpeg</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls">
+      <UniqueIdentifier>{93A82997-92FA-37B0-82BE-DEBF0E685322}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls\djcodecd.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls\djcodece.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls\djcparam.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls\djdecode.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls\djencode.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls\djlsutil.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls\djrparam.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls\dldefine.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\dcmjpls</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oficonv">
+      <UniqueIdentifier>{0831E208-789F-3246-9DCF-25D0E689707D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oficonv\iconv.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oficonv</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oficonv\oidefine.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oficonv</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oficonv\queue.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oficonv</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog">
+      <UniqueIdentifier>{BBBE3E63-24DC-3E99-93C5-4FB31DE159D8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\appender.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\asyncap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\clfsap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\clogger.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\config.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\configrt.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\consap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\fileap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\fstreams.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\hierarchy.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\hierlock.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\layout.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\log4judp.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\logger.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\loglevel.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\logmacro.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\mdc.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\ndc.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\ntelogap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\nullap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\oflog.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\socketap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\streams.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\syslogap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\tchar.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\tracelog.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\tstring.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\version.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\winconap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\windebap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\config">
+      <UniqueIdentifier>{E823AAFA-828C-3F92-AFE3-0CA1173DB63D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\config\defines.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\config</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\config\macosx.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\config</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\config\win32.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\config</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\config\windowsh.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\config</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers">
+      <UniqueIdentifier>{6954D475-D4BE-380A-8AB0-0F094AB3E7AB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\apndimpl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\fileinfo.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\lloguser.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\lockfile.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\loglog.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\pointer.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\property.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\queue.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\sleep.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\snprintf.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\sockbuff.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\socket.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\strhelp.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\threadcf.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers\timehelp.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\helpers</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\internal">
+      <UniqueIdentifier>{989B7528-1E80-3735-89AD-E50226837909}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\internal\cygwin32.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\internal\env.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\internal\internal.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\internal\socket.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\internal</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi">
+      <UniqueIdentifier>{83D299AB-AB1B-3FD5-B512-9A5550F29AFF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi\apndatch.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi\factory.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi\filter.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi\logevent.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi\logfact.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi\logimpl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi\objreg.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi\rootlog.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\spi</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread">
+      <UniqueIdentifier>{2F0FC603-668F-31AE-99D0-857BEC423CCE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\syncprim.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\syncpub.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\threads.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl">
+      <UniqueIdentifier>{699AF6CF-CE80-3C5D-AE50-772C52BB56CC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl\syncimpl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl\syncpmsm.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl\syncpthr.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl\syncwin.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl\thredimp.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl\tls.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\oflog\thread\impl</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd">
+      <UniqueIdentifier>{70A2A497-BFA0-365D-8F16-81C4192F9FD5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofalgo.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofalign.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofassert.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofbmanip.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofcast.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofchrenc.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofcmdln.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofconapp.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofcond.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofconfig.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofconsol.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofcrc32.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofdate.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofdatime.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofdefine.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofdeprec.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofdiag.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\oferror.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofexbl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofexit.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofexport.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\offile.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\offilsys.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\offname.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofglobal.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofgrp.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofipc.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\oflimits.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\oflist.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofmap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofmath.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofmem.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofoption.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofoset.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofpwd.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofrand.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofset.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofsetit.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofsockad.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofstack.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofstd.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofstdinc.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofstream.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofstring.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofstrutl.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\oftempf.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\oftest.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofthread.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\oftime.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\oftimer.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\oftraits.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\oftuple.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\oftypes.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofuoset.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofutil.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofuuid.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofvector.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofvriant.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\ofxml.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag">
+      <UniqueIdentifier>{95EA2113-B8B9-3466-8A61-3A167C706F93}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\arrybnds.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\asincond.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\cnvrsn.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\constexp.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\ignrattr.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\memacces.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\mmtag.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\nsdfti.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\overflow.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\pessmove.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\piof.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\pop.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\push.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\restrict.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\shadow.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\signcmp.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\slfassov.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\stralias.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\stringop.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\unreachb.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\unrefprm.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\useafree.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\vsdeclpd.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\vsobjdes.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag\vsprfw.def">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\diag</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\variadic">
+      <UniqueIdentifier>{F8D3A0EB-A8FF-3086-9C39-6F43B92188CE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\variadic\helpers.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\variadic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\variadic\tuple.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\variadic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\variadic\tuplefrd.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\variadic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\variadic\tuplefwd.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\variadic</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\variadic\variant.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\include\dcmtk\ofstd\variadic</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib">
+      <UniqueIdentifier>{3BEC249C-0B2B-333A-BC6C-5C0669A5957B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64">
+      <UniqueIdentifier>{6CAF2F68-8683-3AF3-A9E6-BDCCA976618C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\dcmdata.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\dcmimage.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\dcmimgle.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\dcmjpeg.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\dcmjpls.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\dcmtkcharls.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\ijg12.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\ijg16.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\ijg8.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\oficonv.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\oflog.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64\ofstd.lib">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\ThirdParty\dcmtk\lib\Win64</Filter>
+    </None>
+    <Filter Include="Source\KSTAR">
+      <UniqueIdentifier>{85B87A84-E42C-3CBD-888B-3CE6942D073D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KSTAR\KSTAR.Build.cs">
+      <Filter>Source\KSTAR</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\KSTAR\KSTAR.cpp">
+      <Filter>Source\KSTAR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KSTAR\KSTAR.h">
+      <Filter>Source\KSTAR</Filter>
+    </ClInclude>
+    <Filter Include="Source\KSTAR\Private">
+      <UniqueIdentifier>{51FA53CC-AEA7-36DF-94A3-0ABD677B3139}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\KSTAR\Private\ISMLine.cpp">
+      <Filter>Source\KSTAR\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\KSTAR\Private\LineStripActor.cpp">
+      <Filter>Source\KSTAR\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\KSTAR\Private\MoveParticleAlongSpline.cpp">
+      <Filter>Source\KSTAR\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\KSTAR\Private\PMCLineStrip.cpp">
+      <Filter>Source\KSTAR\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\KSTAR\Private\PositionLoader.cpp">
+      <Filter>Source\KSTAR\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\KSTAR\Public">
+      <UniqueIdentifier>{A755BE60-3AC2-3CBF-8FCC-69ADE04668A6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\KSTAR\Public\ISMLine.h">
+      <Filter>Source\KSTAR\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\KSTAR\Public\LineStripActor.h">
+      <Filter>Source\KSTAR\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\KSTAR\Public\MoveParticleAlongSpline.h">
+      <Filter>Source\KSTAR\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\KSTAR\Public\PMCLineStrip.h">
+      <Filter>Source\KSTAR\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\KSTAR\Public\PositionLoader.h">
+      <Filter>Source\KSTAR\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
