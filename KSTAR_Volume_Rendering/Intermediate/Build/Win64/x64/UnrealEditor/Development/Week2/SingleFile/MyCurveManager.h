@@ -1,0 +1,1 @@
+#include "C:/Users/User/Desktop/Plasma/Week2/Source/Week2/Public/MyCurveManager.h"

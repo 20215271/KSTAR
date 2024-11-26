@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Week2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Week2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Week2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin">
+      <UniqueIdentifier>{27327426-A8D5-3251-B66B-33D7CB0D58E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source">
+      <UniqueIdentifier>{D420F0A0-35AB-3BB3-8AAA-7762A0DB1AA0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher">
+      <UniqueIdentifier>{1AA59240-68A4-36F6-8A64-2834C476015A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\FractalMarcher.build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private">
+      <UniqueIdentifier>{BCB7ADF2-63CB-3E47-B15C-6F2FF5E59C43}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\FractalMarcher.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor">
+      <UniqueIdentifier>{26979C1E-123F-3A1A-B163-883DE5FB834B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor\FractalAudioVisualizeDriver.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor\FractalVisualizerScreen.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor\FractalVolume.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Actor</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering">
+      <UniqueIdentifier>{1CF3C267-F683-3451-AA7A-EFB8A1A5C100}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering\FractalShaders.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering\FractalVideoProcessor.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering\MyProceduralMesh.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public">
+      <UniqueIdentifier>{FEDA1B1A-5E24-371C-AF07-BAF541165009}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\FractalMarcher.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor">
+      <UniqueIdentifier>{8FF9FCD6-6ABD-3CF3-85C6-4B673FB490E8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor\FractalAudioVisualizeDriver.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor\FractalVisualizerScreen.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor\FractalVolume.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Actor</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering">
+      <UniqueIdentifier>{6C02E19E-8E89-305F-BC87-26200CFF1C86}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering\FractalShaders.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering\FractalVideoProcessor.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering\MyProceduralMesh.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders">
+      <UniqueIdentifier>{8F1E9AD7-D57D-33DC-9E59-4E04226DC428}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private">
+      <UniqueIdentifier>{3B959D00-6E3F-343A-ADCF-A04B3E8D5D5A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private\CalculateMandelbulbSDF.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private\QuickLight.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private\SDFMarcher.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\FractalMarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\TBRaymarcherPlugin.uplugin">
+      <Filter>Plugins\TBRaymarcherPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Resources">
+      <UniqueIdentifier>{45D1F92B-E40E-3375-A31D-A3A0B54C4E12}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Resources\Icon128.png">
+      <Filter>Plugins\TBRaymarcherPlugin\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\RayUtils">
+      <UniqueIdentifier>{2A6BF643-D1EF-353F-BC2A-C47CCB555D84}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\RayUtils\RayUtils.build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\RayUtils</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\RayUtils\Private">
+      <UniqueIdentifier>{4DD734BF-F11A-3199-A0CE-D749F28AFFCD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\RayUtils\Private\FPerfTimer.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\RayUtils\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\RayUtils\Private\RayUtils.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\RayUtils\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\RayUtils\Public">
+      <UniqueIdentifier>{313148E7-BC5F-3CF9-9846-3A020A828BC9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\RayUtils\Public\FPerfTimer.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\RayUtils\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\RayUtils\Public\RayUtils.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\RayUtils\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher">
+      <UniqueIdentifier>{36EDEFC6-1AAF-3514-B84B-777083032CDB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Raymarcher.build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private">
+      <UniqueIdentifier>{5345667A-D145-3025-A3F4-43203FB049FB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Raymarcher.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor">
+      <UniqueIdentifier>{6723BC96-C179-3062-960E-455E49FDF3E4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\RaymarchClipPlane.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\RaymarchLight.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\RaymarchVolume.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR">
+      <UniqueIdentifier>{1BF30402-5D50-3597-A8E1-8C1B48444CD9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\Grabbable.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMotionController.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRPawn.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu">
+      <UniqueIdentifier>{47847DE6-A9BF-31FC-8B6C-D841D8BAF1E3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu\LoaderMenuPanel.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu\TFMenuPanel.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu\VRMenuPanel.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Actor\VR\VRMenu</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering">
+      <UniqueIdentifier>{C7C1CFFD-2140-3C4A-89DE-BE45E15AB83E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering\LightingShaders.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering\LightingShadersExperimental.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering\LightingShaderUtils.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering\OctreeShaders.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering\RaymarchTypes.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Rendering</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Util">
+      <UniqueIdentifier>{534AC338-2373-3A41-986C-CA0A7850BA2D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Util\RaymarchUtils.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Util</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget">
+      <UniqueIdentifier>{E4707B78-EBFC-3FED-99B1-F16B47CA8BE6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget\SliderAndValueBox.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget\TransferFuncMenu.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget\VolumeLoadMenu.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Private\Widget</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public">
+      <UniqueIdentifier>{7E9C91C6-B7A8-34E6-8C57-BFF132BD78E1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Raymarcher.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor">
+      <UniqueIdentifier>{A4A8BF9D-DCA5-3D2E-A88A-8F19B3B721D1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\RaymarchClipPlane.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\RaymarchLight.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\RaymarchVolume.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR">
+      <UniqueIdentifier>{D04F2ED9-75FE-3452-BF5A-F7DDE5BB9F86}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\Grabbable.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMotionController.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRPawn.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu">
+      <UniqueIdentifier>{8A01116D-1B3D-3E16-8F1C-D3AE118055C5}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu\LoaderMenuPanel.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu\TFMenuPanel.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu\VRMenuPanel.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Actor\VR\VRMenu</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering">
+      <UniqueIdentifier>{85BD3EB0-076A-3450-A3F5-503AC8C11EAA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\LightingShaders.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\LightingShadersExperimental.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\LightingShaderUtils.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\OctreeShaders.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\RaymarchMaterialParameters.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering\RaymarchTypes.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Rendering</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Util">
+      <UniqueIdentifier>{CE454FFB-BCFB-3853-BC26-84530DAFDF69}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Util\RaymarchUtils.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Util</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget">
+      <UniqueIdentifier>{E09FC03E-0EF7-3A2A-9EEA-77E131F8C5A1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget\SliderAndValueBox.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget\TransferFuncMenu.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget\VolumeLoadMenu.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Public\Widget</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders">
+      <UniqueIdentifier>{AAEACC61-FC86-3B0E-B472-8420A71381CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private">
+      <UniqueIdentifier>{EE0EF90B-D816-3114-BD87-2FEFDB3ABD12}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\AddDirLightShader.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\AddDirLightShader_GPUSync.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\ChangeDirLightShader.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\GenerateOctreeShader.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\OctreeCommon.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\RaymarcherCommon.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\RaymarchExperimental.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\RaymarchMaterialCommon.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\WindowedRaymarchMaterials.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private\WindowedSampling.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Raymarcher\Shaders\Private</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Tests">
+      <UniqueIdentifier>{C90914AB-CAF9-3CC7-A86D-B2DE6D118BE8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\Tests\Tests.Build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Tests</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Tests\Private">
+      <UniqueIdentifier>{02BECB0B-A2EE-34E0-B9F5-DD69A2A2C5EB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Tests\Private\Tests.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Tests\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Tests\Private\Actor">
+      <UniqueIdentifier>{27FA43ED-6F0B-3EA9-96BC-23FC57182A2E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\Tests\Private\Actor\PerformanceTest1.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Tests\Private\Actor</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Tests\Public">
+      <UniqueIdentifier>{0FE7228B-59D0-3C1D-978B-D62A6713B2D0}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Tests\Public\Tests.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Tests\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\Tests\Public\Actor">
+      <UniqueIdentifier>{61553BC6-1C75-3CF6-B7D6-922758088B4D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\Tests\Public\Actor\PerformanceTest1.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\Tests\Public\Actor</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor">
+      <UniqueIdentifier>{4479A953-9B95-3651-9D5F-CEDB8A15AEA0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\VolumeTextureToolkitEditor.Build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private">
+      <UniqueIdentifier>{DC73884D-6315-309F-942B-E9F59EDE9737}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private\VolumeAssetFactory.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private\VolumeTextureToolkitEditor.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public">
+      <UniqueIdentifier>{33C4D28D-B0FB-3619-BA19-B9016A75C001}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public\VolumeAssetFactory.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public\VolumeTextureToolkitEditor.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkitEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit">
+      <UniqueIdentifier>{6A16F317-5ADD-35A1-83A6-79EEC27467BB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\VolumeTextureToolkit.Build.cs">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit</Filter>
+    </None>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private">
+      <UniqueIdentifier>{E4ADF4EC-F813-3FB2-885F-CA823CA5FB0D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\RenderTargetVolumeMipped.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\TextureUtilities.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeTextureToolkit.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeTextureToolkitBPLibrary.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\Util">
+      <UniqueIdentifier>{CE01B728-1ABB-3D27-A202-FA8C536CD737}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\Util\UtilityShaders.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\Util</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset">
+      <UniqueIdentifier>{F1BEFA35-5207-3820-B85A-8DE2324FFFCF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\VolumeAsset.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\VolumeInfo.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\DICOMParser">
+      <UniqueIdentifier>{B9F4F2BE-EBE2-3EE9-9076-B3C2A5235C82}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\DICOMParser\Copyright.txt">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\DICOMParser</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\DICOMParser\DICOMAppHelper.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\DICOMParser</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\DICOMParser\DICOMFile.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\DICOMParser</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\DICOMParser\DICOMParser.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\DICOMParser</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders">
+      <UniqueIdentifier>{3C35D74D-B52E-306F-9019-831DF5ED7904}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders\DICOMLoader.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders\MHDLoader.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders\VolumeLoader.cpp">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Private\VolumeAsset\Loaders</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public">
+      <UniqueIdentifier>{EC030522-CBE6-3778-AAA4-F2D2C0139BB7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\RenderTargetVolumeMipped.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\TextureUtilities.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeTextureToolkit.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeTextureToolkitBPLibrary.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\Util">
+      <UniqueIdentifier>{E1605D41-5949-335D-B914-DAADD3EE4FFB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\Util\UtilityShaders.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\Util</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset">
+      <UniqueIdentifier>{D565A47C-E2D5-3F4F-9E1F-0F0C4D346D12}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\VolumeAsset.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\VolumeInfo.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\WindowingParameters.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser">
+      <UniqueIdentifier>{2C81A19F-2C18-3DB5-8937-ABC91FEC058E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\Copyright.txt">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </None>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMAppHelper.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMCallback.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMConfig.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMFile.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMParser.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMParserMap.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser\DICOMTypes.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\DICOMParser</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders">
+      <UniqueIdentifier>{50B95EA5-3228-3ED1-8E50-9DEF1595A3F2}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders\DICOMLoader.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders\MHDLoader.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders\VolumeLoader.h">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Public\VolumeAsset\Loaders</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders">
+      <UniqueIdentifier>{5590D53F-A023-38BC-890A-B69F2D5B8553}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private">
+      <UniqueIdentifier>{1FE7512A-574B-3E30-B652-44F6815530BA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private\ClearTextureShader.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private\ClearVolumeTextureShader.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private</Filter>
+    </None>
+    <None Include="..\..\Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private\GaussBlurSeparated.usf">
+      <Filter>Plugins\TBRaymarcherPlugin\Source\VolumeTextureToolkit\Shaders\Private</Filter>
+    </None>
+    <Filter Include="Source\Week2">
+      <UniqueIdentifier>{ADE46ED7-0351-328D-9B1A-8EAA915E939C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Week2\Week2.Build.cs">
+      <Filter>Source\Week2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Week2\Week2.cpp">
+      <Filter>Source\Week2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Week2\Week2.h">
+      <Filter>Source\Week2</Filter>
+    </ClInclude>
+    <Filter Include="Source\Week2\Private">
+      <UniqueIdentifier>{F161A848-8AD3-39E4-865F-AEA6F639AF76}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Week2\Private\MyCurve.cpp">
+      <Filter>Source\Week2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Week2\Private\MyCurveManager.cpp">
+      <Filter>Source\Week2\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Week2\Private\MyUserWidget.cpp">
+      <Filter>Source\Week2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Week2\Public">
+      <UniqueIdentifier>{251485EA-A162-3C37-B6D2-F7172DFEE2DA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Week2\Public\MyCurve.h">
+      <Filter>Source\Week2\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Week2\Public\MyCurveManager.h">
+      <Filter>Source\Week2\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Week2\Public\MyUserWidget.h">
+      <Filter>Source\Week2\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

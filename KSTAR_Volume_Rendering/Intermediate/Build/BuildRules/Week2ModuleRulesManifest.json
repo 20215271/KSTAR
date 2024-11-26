@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\User\\Desktop\\Plasma\\Week2\\Source\\Week2\\Week2.Build.cs",
+		"C:\\Users\\User\\Desktop\\Plasma\\Week2\\Plugins\\TBRaymarcherPlugin\\Source\\FractalMarcher\\FractalMarcher.build.cs",
+		"C:\\Users\\User\\Desktop\\Plasma\\Week2\\Plugins\\TBRaymarcherPlugin\\Source\\RayUtils\\RayUtils.build.cs",
+		"C:\\Users\\User\\Desktop\\Plasma\\Week2\\Plugins\\TBRaymarcherPlugin\\Source\\Raymarcher\\Raymarcher.build.cs",
+		"C:\\Users\\User\\Desktop\\Plasma\\Week2\\Plugins\\TBRaymarcherPlugin\\Source\\Tests\\Tests.Build.cs",
+		"C:\\Users\\User\\Desktop\\Plasma\\Week2\\Plugins\\TBRaymarcherPlugin\\Source\\VolumeTextureToolkitEditor\\VolumeTextureToolkitEditor.Build.cs",
+		"C:\\Users\\User\\Desktop\\Plasma\\Week2\\Plugins\\TBRaymarcherPlugin\\Source\\VolumeTextureToolkit\\VolumeTextureToolkit.Build.cs",
+		"C:\\Users\\User\\Desktop\\Plasma\\Week2\\Source\\Week2.Target.cs",
+		"C:\\Users\\User\\Desktop\\Plasma\\Week2\\Source\\Week2Editor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,202 @@
+[+] Containers:
+ |- [+] Container: /Game/Untitled
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638420.000 Y=-1638390.000 Z=-1638260.000), Max=(X=1638380.000 Y=1638410.000 Z=1638540.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:0EDEA48F4EAC00D8478301829D8E0A36 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1744839703 Label:BP_RaymarchVolume2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-124.640 Y=-179.640 Z=-64.640), Max=(X=4.640 Y=-50.360 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1D3D26F04B6DC10BEFB5B69E5CF914C8 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2C590E3545FD9E99C4DB0B8DCC65CE5E BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2041870551 Label:BP_RaymarchVolume6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4.640 Y=55.360 Z=-64.640), Max=(X=124.640 Y=184.640 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:303D0A5B4CB55140FB45A995F52AE5A4 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC34971687318E1C02_1266788055 Label:BP_RaymarchVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-184.640 Y=-4.640 Z=-64.640), Max=(X=-55.360 Y=124.640 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:475A692747978264B44B629ECC84D2ED BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchLight.BP_RaymarchLight_C NativeClass:/Script/Raymarcher.RaymarchLight Name:BP_RaymarchLight_C_UAID_FC34971687318E1C02_1367993056 Label:BP_RaymarchLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17485.839 Y=1745.863 Z=31.170), Max=(X=17494.112 Y=1754.137 Z=80.057) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:57230CAB4C343EAB4C5B2891D5235F51 BaseClass: NativeClass:/Script/Week2.MyCurveManager Name:MyCurveManager_UAID_FC34971687313B2602_1378221007 Label:MyCurveManager SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:75D0433D408E30B84A529E876CA4AC04 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2070857553 Label:BP_RaymarchVolume7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-131.415 Y=38.585 Z=-64.640), Max=(X=51.415 Y=221.415 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8D07160A46A5FBCBA7B8B5B5AD2CB4F7 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1746178705 Label:BP_RaymarchVolume4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=55.360 Y=-119.640 Z=-64.640), Max=(X=184.640 Y=9.640 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8E8C89CF4A075D8EFA95CAA2CCE7E2CE BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchLight.BP_RaymarchLight_C NativeClass:/Script/Raymarcher.RaymarchLight Name:BP_RaymarchLight_C_UAID_FC34971687318E1C02_1441791061 Label:BP_RaymarchLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17485.863 Y=1715.463 Z=39.919), Max=(X=17494.137 Y=1753.225 Z=82.687) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:921D85F948680209F30EE1BE1F62A76C BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchClipPlane.BP_RaymarchClipPlane_C NativeClass:/Script/Raymarcher.RaymarchClipPlane Name:BP_RaymarchClipPlane_C_UAID_FC34971687318F1C02_1256892238 Label:BP_RaymarchClipPlane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-100.000 Y=-110.000 Z=-0.000), Max=(X=100.000 Y=90.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:93E84FCF4211628E6E49A0AD19B68F76 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1745756704 Label:BP_RaymarchVolume3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-51.415 Y=-216.415 Z=-64.640), Max=(X=131.415 Y=-33.585 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=360.000 Y=-40.000 Z=58.000), Max=(X=440.000 Y=40.000 Z=242.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A2695F14437FF436281C8588CD2133BA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497168731F92B02_2114071727 Label:KSTAR_noLimiter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-135.035 Y=-135.023 Z=-88.552), Max=(X=135.114 Y=135.023 Z=88.552) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A2CB2B9C4067896A906FA99E929349C2 BaseClass:/Game/Assets/???????/Arrow.Arrow_C NativeClass:/Script/Engine.Actor Name:Arrow_C_UAID_FC3497168731C22402_1237812655 Label:Arrow SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7.500 Y=-577.500 Z=-7.500), Max=(X=115.000 Y=-455.000 Z=115.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:C700EE43485C7AC4FDE4549E7AE52D5A BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1746517706 Label:BP_RaymarchVolume5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=38.585 Y=-51.415 Z=-64.640), Max=(X=221.415 Y=131.415 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C7F842EB42C6581C4FE739AECE51AA35 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2054564552 Label:BP_RaymarchVolume1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-221.415 Y=-126.415 Z=-64.640), Max=(X=-38.585 Y=56.415 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:E090E3E0496F5DCB6AF420B85F2D2604 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchLight.BP_RaymarchLight_C NativeClass:/Script/Raymarcher.RaymarchLight Name:BP_RaymarchLight_C_UAID_FC34971687318E1C02_1370548057 Label:BP_RaymarchLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17485.863 Y=1746.368 Z=35.632), Max=(X=17494.137 Y=1777.976 Z=82.106) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638420.000 Y=-1638390.000 Z=-1638260.000), Max=(X=1638380.000 Y=1638410.000 Z=1638540.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0EDEA48F4EAC00D8478301829D8E0A36 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1744839703 Label:BP_RaymarchVolume2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-124.640 Y=-179.640 Z=-64.640), Max=(X=4.640 Y=-50.360 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:2C590E3545FD9E99C4DB0B8DCC65CE5E BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2041870551 Label:BP_RaymarchVolume6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4.640 Y=55.360 Z=-64.640), Max=(X=124.640 Y=184.640 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:303D0A5B4CB55140FB45A995F52AE5A4 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC34971687318E1C02_1266788055 Label:BP_RaymarchVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-184.640 Y=-4.640 Z=-64.640), Max=(X=-55.360 Y=124.640 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:475A692747978264B44B629ECC84D2ED BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchLight.BP_RaymarchLight_C NativeClass:/Script/Raymarcher.RaymarchLight Name:BP_RaymarchLight_C_UAID_FC34971687318E1C02_1367993056 Label:BP_RaymarchLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17485.839 Y=1745.863 Z=31.170), Max=(X=17494.112 Y=1754.137 Z=80.057) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:75D0433D408E30B84A529E876CA4AC04 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2070857553 Label:BP_RaymarchVolume7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-131.415 Y=38.585 Z=-64.640), Max=(X=51.415 Y=221.415 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:8D07160A46A5FBCBA7B8B5B5AD2CB4F7 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1746178705 Label:BP_RaymarchVolume4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=55.360 Y=-119.640 Z=-64.640), Max=(X=184.640 Y=9.640 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:8E8C89CF4A075D8EFA95CAA2CCE7E2CE BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchLight.BP_RaymarchLight_C NativeClass:/Script/Raymarcher.RaymarchLight Name:BP_RaymarchLight_C_UAID_FC34971687318E1C02_1441791061 Label:BP_RaymarchLight3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17485.863 Y=1715.463 Z=39.919), Max=(X=17494.137 Y=1753.225 Z=82.687) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:921D85F948680209F30EE1BE1F62A76C BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchClipPlane.BP_RaymarchClipPlane_C NativeClass:/Script/Raymarcher.RaymarchClipPlane Name:BP_RaymarchClipPlane_C_UAID_FC34971687318F1C02_1256892238 Label:BP_RaymarchClipPlane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-100.000 Y=-110.000 Z=-0.000), Max=(X=100.000 Y=90.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:93E84FCF4211628E6E49A0AD19B68F76 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1745756704 Label:BP_RaymarchVolume3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-51.415 Y=-216.415 Z=-64.640), Max=(X=131.415 Y=-33.585 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:C700EE43485C7AC4FDE4549E7AE52D5A BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1746517706 Label:BP_RaymarchVolume5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=38.585 Y=-51.415 Z=-64.640), Max=(X=221.415 Y=131.415 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:C7F842EB42C6581C4FE739AECE51AA35 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchVolume.BP_RaymarchVolume_C NativeClass:/Script/Raymarcher.RaymarchVolume Name:BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2054564552 Label:BP_RaymarchVolume1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-221.415 Y=-126.415 Z=-64.640), Max=(X=-38.585 Y=56.415 Z=64.640) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |   |- Guid:E090E3E0496F5DCB6AF420B85F2D2604 BaseClass:/TBRaymarcherPlugin/Blueprints/Actors/BP_RaymarchLight.BP_RaymarchLight_C NativeClass:/Script/Raymarcher.RaymarchLight Name:BP_RaymarchLight_C_UAID_FC34971687318E1C02_1370548057 Label:BP_RaymarchLight2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=17485.863 Y=1746.368 Z=35.632), Max=(X=17494.137 Y=1777.976 Z=82.106) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:1D3D26F04B6DC10BEFB5B69E5CF914C8 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A85E45CFE40401D200_1470381760 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:218E3B124735712D7EF272B4FB8E7FF6 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A85E45CFE404FBD100_1221515703 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=100.000), Max=(X=-100800.000 Y=-100800.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:57230CAB4C343EAB4C5B2891D5235F51 BaseClass: NativeClass:/Script/Week2.MyCurveManager Name:MyCurveManager_UAID_FC34971687313B2602_1378221007 Label:MyCurveManager SpatiallyLoaded:1 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:962D6BE34E7839A2A94E65B8F6CE5D43 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_F02F74551BF5599B01_1153002503 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=360.000 Y=-40.000 Z=58.000), Max=(X=440.000 Y=40.000 Z=242.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:A2695F14437FF436281C8588CD2133BA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497168731F92B02_2114071727 Label:KSTAR_noLimiter SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-135.035 Y=-135.023 Z=-88.552), Max=(X=135.114 Y=135.023 Z=88.552) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:A2CB2B9C4067896A906FA99E929349C2 BaseClass:/Game/Assets/???????/Arrow.Arrow_C NativeClass:/Script/Engine.Actor Name:Arrow_C_UAID_FC3497168731C22402_1237812655 Label:Arrow SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7.500 Y=-577.500 Z=-7.500), Max=(X=115.000 Y=-455.000 Z=115.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:AAAC6B5742760A58C2206DB37E44683C BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A85E45CFE40401D200_1470382761 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:D3FB7383421AAEFD3DB6F8B1E415A9FE BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-221.415 Y=-577.500 Z=-88.552), Max=(X=17494.137 Y=1777.976 Z=115.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Untitled
+----------------------------------------------------------------------------------------------------------------
+Untitled - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Untitled Persistent Level
+ |- Always loaded Actor Count: 31 
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Untitled
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.Arrow_C_UAID_FC3497168731C22402_1237812655
+ |- Actor Package: /Game/__ExternalActors__/Untitled/D/AT/CLIUAW17FERK1VDURUISO4
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchClipPlane_C_UAID_FC34971687318F1C02_1256892238
+ |- Actor Package: /Game/__ExternalActors__/Untitled/6/18/KXYFQ2GEUF56717LAK6J3G
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchLight_C_UAID_FC34971687318E1C02_1367993056
+ |- Actor Package: /Game/__ExternalActors__/Untitled/D/L6/ZXVGILFHYLJXV03H8NFKTA
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchLight_C_UAID_FC34971687318E1C02_1370548057
+ |- Actor Package: /Game/__ExternalActors__/Untitled/9/N9/L0NID88AJ5EM1FDL676OOS
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchLight_C_UAID_FC34971687318E1C02_1441791061
+ |- Actor Package: /Game/__ExternalActors__/Untitled/4/3W/UU4PKN1APKRIFRYGU16CX9
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC34971687318E1C02_1266788055
+ |- Actor Package: /Game/__ExternalActors__/Untitled/4/F8/TY8P50NP1BT0BEXDHJQ8ZC
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1744839703
+ |- Actor Package: /Game/__ExternalActors__/Untitled/7/B8/6TBS8175I3YEHFIMB5BBK0
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1745756704
+ |- Actor Package: /Game/__ExternalActors__/Untitled/5/MC/91FMUJMY2VSQSJYPHW6MC1
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1746178705
+ |- Actor Package: /Game/__ExternalActors__/Untitled/9/IV/NHGWW9M2QYB0WVC8NFTFRY
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1746517706
+ |- Actor Package: /Game/__ExternalActors__/Untitled/C/7L/KXFA0C9Y6L88DIL7GPLXI0
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2041870551
+ |- Actor Package: /Game/__ExternalActors__/Untitled/1/CL/EU5HNO63VYZQ7REMCTMV9Y
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2054564552
+ |- Actor Package: /Game/__ExternalActors__/Untitled/4/RF/KLTZ6X6N1627ROSLN68FIC
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2070857553
+ |- Actor Package: /Game/__ExternalActors__/Untitled/1/7S/K1VE7K3AMQ5DZT3T972YE7
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Untitled
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Untitled
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+ |- Actor Package: /Game/__ExternalActors__/Untitled/D/U3/F9ZCV1ZQZIEFW41ASA7N1E
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+ |- Actor Package: /Game/__ExternalActors__/Untitled/0/YK/K6UPO231BY2JGT7QL36BEO
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Untitled
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+ |- Actor Package: /Game/__ExternalActors__/Untitled/3/0C/B2JMGSH9XFZI7GT8M36JMF
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.MyCurveManager_UAID_FC34971687313B2602_1378221007
+ |- Actor Package: /Game/__ExternalActors__/Untitled/5/HF/FNOYJSWTGTG39Y7PYMQEEY
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.PlayerStart_UAID_F02F74551BF5599B01_1153002503
+ |- Actor Package: /Game/__ExternalActors__/Untitled/D/C1/HS6V3BNZ7H6AKPXHPEX1M7
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+ |- Actor Package: /Game/__ExternalActors__/Untitled/1/JL/ZK9VQR5UXVP37810TVO5YO
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+ |- Actor Package: /Game/__ExternalActors__/Untitled/7/L8/Y18E0V91UKJME7Q2OB3P5K
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+ |- Actor Package: /Game/__ExternalActors__/Untitled/D/FV/1KGJYU8K12XHN6XNLSYMBQ
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.StaticMeshActor_UAID_FC3497168731F92B02_2114071727
+ |- Actor Package: /Game/__ExternalActors__/Untitled/0/JR/8ZFD69BNX4P852KBIP054R
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.Untitled_C_1
+ |- Actor Package: /Game/Untitled
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+ |- Actor Package: /Game/__ExternalActors__/Untitled/E/7X/0GCTIMNEBVF8AOXPOXOJMW
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Untitled/C/VR/0LAVFHBFPQHWQIE58DO5WF
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+ |- Actor Package: /Game/__ExternalActors__/Untitled/C/JJ/2KM5RW3RB8MQTC5Z5QAP86
+ |- Actor Path: /Game/Untitled.Untitled:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Untitled
+
+----------------------------------------------------------------------------------------------------------------
+Untitled - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-221.415 Y=-577.500 Z=-88.552), Max=(X=17494.137 Y=1777.976 Z=115.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   25600 | Actor Count   14 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell Untitled_MainGrid_L0_X0_Y0 (0379JOXNFT79BP09JKJZD5RE0)
+ |   |- Actor Count: 14
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1744839703
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/7/B8/6TBS8175I3YEHFIMB5BBK0
+ |   |- Actor Instance Guid: 0EDEA48F4EAC00D8478301829D8E0A36
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2041870551
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/1/CL/EU5HNO63VYZQ7REMCTMV9Y
+ |   |- Actor Instance Guid: 2C590E3545FD9E99C4DB0B8DCC65CE5E
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC34971687318E1C02_1266788055
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/4/F8/TY8P50NP1BT0BEXDHJQ8ZC
+ |   |- Actor Instance Guid: 303D0A5B4CB55140FB45A995F52AE5A4
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchLight_C_UAID_FC34971687318E1C02_1367993056
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/D/L6/ZXVGILFHYLJXV03H8NFKTA
+ |   |- Actor Instance Guid: 475A692747978264B44B629ECC84D2ED
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2070857553
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/1/7S/K1VE7K3AMQ5DZT3T972YE7
+ |   |- Actor Instance Guid: 75D0433D408E30B84A529E876CA4AC04
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1746178705
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/9/IV/NHGWW9M2QYB0WVC8NFTFRY
+ |   |- Actor Instance Guid: 8D07160A46A5FBCBA7B8B5B5AD2CB4F7
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchLight_C_UAID_FC34971687318E1C02_1441791061
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/4/3W/UU4PKN1APKRIFRYGU16CX9
+ |   |- Actor Instance Guid: 8E8C89CF4A075D8EFA95CAA2CCE7E2CE
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchClipPlane_C_UAID_FC34971687318F1C02_1256892238
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/6/18/KXYFQ2GEUF56717LAK6J3G
+ |   |- Actor Instance Guid: 921D85F948680209F30EE1BE1F62A76C
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1745756704
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/5/MC/91FMUJMY2VSQSJYPHW6MC1
+ |   |- Actor Instance Guid: 93E84FCF4211628E6E49A0AD19B68F76
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.StaticMeshActor_UAID_FC3497168731F92B02_2114071727
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/0/JR/8ZFD69BNX4P852KBIP054R
+ |   |- Actor Instance Guid: A2695F14437FF436281C8588CD2133BA
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.Arrow_C_UAID_FC3497168731C22402_1237812655
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/D/AT/CLIUAW17FERK1VDURUISO4
+ |   |- Actor Instance Guid: A2CB2B9C4067896A906FA99E929349C2
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731B52A02_1746517706
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/C/7L/KXFA0C9Y6L88DIL7GPLXI0
+ |   |- Actor Instance Guid: C700EE43485C7AC4FDE4549E7AE52D5A
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchVolume_C_UAID_FC3497168731F82B02_2054564552
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/4/RF/KLTZ6X6N1627ROSLN68FIC
+ |   |- Actor Instance Guid: C7F842EB42C6581C4FE739AECE51AA35
+ |   |-          Actor Path: /Game/Untitled.Untitled:PersistentLevel.BP_RaymarchLight_C_UAID_FC34971687318E1C02_1370548057
+ |   |-       Actor Package: /Game/__ExternalActors__/Untitled/9/N9/L0NID88AJ5EM1FDL676OOS
+ |   |- Actor Instance Guid: E090E3E0496F5DCB6AF420B85F2D2604
+[+] Content of Grid Level 1
+
